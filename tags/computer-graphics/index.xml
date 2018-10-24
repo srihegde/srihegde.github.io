@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Graphics on Srinidhi Hegde</title>
+    <link>/tags/computer-graphics/</link>
+    <description>Recent content in Computer Graphics on Srinidhi Hegde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Procedural Tree Modelling Using L-Systems</title>
+      <link>/project/lsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lsys/</guid>
+      <description>A novel technique to convert a captured image of a vegetation to a 3D model using L-Systems, a grammar for procedural vegetation modelling.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Campus Project</title>
+      <link>/project/vcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/vcp/</guid>
+      <description>This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.</description>
+    </item>
+    
+  </channel>
+</rss>
