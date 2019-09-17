@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/lsys/</guid>
-      <description>A novel technique to convert a captured image of a vegetation to a 3D model using L-Systems, a grammar for procedural vegetation modelling.</description>
+      <description>Modelling vegetation using context-free grammar.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/vcp/</guid>
-      <description>This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.</description>
+      <description>Creating a virtual walk-through of IIIT-Delhi campus.</description>
     </item>
     
   </channel>

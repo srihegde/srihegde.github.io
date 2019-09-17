@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/mas/</guid>
-      <description>This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.</description>
+      <description>Analysed Multi-Agent area coverage problem for surveillance purposes.</description>
     </item>
     
   </channel>

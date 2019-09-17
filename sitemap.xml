@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
     
     <url>
@@ -61,15 +87,6 @@
     <url>
     
       <loc>/project/mas/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -139,24 +156,6 @@
     <url>
     
       <loc>/project/lsys/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   
