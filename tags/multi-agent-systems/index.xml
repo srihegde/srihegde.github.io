@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multi-Agent systems on Srinidhi Hegde</title>
-    <link>127.0.0.1/tags/multi-agent-systems/</link>
+    <link>/tags/multi-agent-systems/</link>
     <description>Recent content in Multi-Agent systems on Srinidhi Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="127.0.0.1/tags/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>127.0.0.1/project/mas/</link>
+      <link>/project/mas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/project/mas/</guid>
+      <guid>/project/mas/</guid>
       <description>Analysed Multi-Agent area coverage problem for surveillance purposes.</description>
     </item>
     

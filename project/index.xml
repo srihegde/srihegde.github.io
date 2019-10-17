@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Srinidhi Hegde</title>
-    <link>127.0.0.1/project/</link>
+    <link>/project/</link>
     <description>Recent content in Publications on Srinidhi Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="127.0.0.1/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>127.0.0.1/project/mas/</link>
+      <link>/project/mas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/project/mas/</guid>
+      <guid>/project/mas/</guid>
       <description>Analysed Multi-Agent area coverage problem for surveillance purposes.</description>
     </item>
     
     <item>
       <title>Creating Cloud of Local Servers</title>
-      <link>127.0.0.1/project/vcloud/</link>
+      <link>/project/vcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/project/vcloud/</guid>
+      <guid>/project/vcloud/</guid>
       <description>Cloud based Virtual Machine management system using KVM.</description>
     </item>
     
     <item>
       <title>Modelling Vegetation with L-Systems Using an Image </title>
-      <link>127.0.0.1/project/lsys/</link>
+      <link>/project/lsys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/project/lsys/</guid>
+      <guid>/project/lsys/</guid>
       <description>Procedural modelling of vegetation using context-free grammar.</description>
     </item>
     
     <item>
       <title>Network Traffic Generator and Packet Analyzer</title>
-      <link>127.0.0.1/project/netpack/</link>
+      <link>/project/netpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/project/netpack/</guid>
+      <guid>/project/netpack/</guid>
       <description>Network traffic analysis and IPv4 packet generation for custom simulation.</description>
     </item>
     
     <item>
       <title>Virtual Campus Project</title>
-      <link>127.0.0.1/project/vcp/</link>
+      <link>/project/vcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/project/vcp/</guid>
+      <guid>/project/vcp/</guid>
       <description>Creating a virtual walk-through of IIIT-Delhi campus.</description>
     </item>
     

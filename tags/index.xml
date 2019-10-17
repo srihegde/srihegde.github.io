@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Srinidhi Hegde</title>
-    <link>127.0.0.1/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Srinidhi Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="127.0.0.1/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3D Modelling</title>
-      <link>127.0.0.1/tags/3d-modelling/</link>
+      <link>/tags/3d-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/3d-modelling/</guid>
+      <guid>/tags/3d-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms</title>
-      <link>127.0.0.1/tags/algorithms/</link>
+      <link>/tags/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/algorithms/</guid>
+      <guid>/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Graphics</title>
-      <link>127.0.0.1/tags/computer-graphics/</link>
+      <link>/tags/computer-graphics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/computer-graphics/</guid>
+      <guid>/tags/computer-graphics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-free Grammar</title>
-      <link>127.0.0.1/tags/context-free-grammar/</link>
+      <link>/tags/context-free-grammar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/context-free-grammar/</guid>
+      <guid>/tags/context-free-grammar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Agent systems</title>
-      <link>127.0.0.1/tags/multi-agent-systems/</link>
+      <link>/tags/multi-agent-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/multi-agent-systems/</guid>
+      <guid>/tags/multi-agent-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Management</title>
-      <link>127.0.0.1/tags/network-management/</link>
+      <link>/tags/network-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/network-management/</guid>
+      <guid>/tags/network-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System Management</title>
-      <link>127.0.0.1/tags/system-management/</link>
+      <link>/tags/system-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>127.0.0.1/tags/system-management/</guid>
+      <guid>/tags/system-management/</guid>
       <description></description>
     </item>
     

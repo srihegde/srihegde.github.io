@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pubications on Srinidhi Hegde</title>
-    <link>127.0.0.1/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Pubications on Srinidhi Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="127.0.0.1/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Where To Place: A Real-Time Visual Saliency Based Label Placement for Augmented Reality Applications</title>
-      <link>127.0.0.1/publication/icip2018/</link>
+      <link>/publication/icip2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
       
-      <guid>127.0.0.1/publication/icip2018/</guid>
+      <guid>/publication/icip2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DrawInAir: A Lightweight Gestural Interface Based on Figertip Regression</title>
-      <link>127.0.0.1/publication/eccv2018/</link>
+      <link>/publication/eccv2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
       
-      <guid>127.0.0.1/publication/eccv2018/</guid>
+      <guid>/publication/eccv2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GestAR: Real Time Gesture Interaction for AR with Egocentric View</title>
-      <link>127.0.0.1/publication/ismar2016/</link>
+      <link>/publication/ismar2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
       
-      <guid>127.0.0.1/publication/ismar2016/</guid>
+      <guid>/publication/ismar2016/</guid>
       <description></description>
     </item>
     
