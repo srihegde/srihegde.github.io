@@ -3,34 +3,7 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/icip2018/</loc>
+      <loc>127.0.0.1/publication_types/1/</loc>
       <lastmod>2018-10-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -38,7 +11,31 @@
     
     <url>
     
-      <loc>/publication/eccv2018/</loc>
+      <loc>127.0.0.1/publication_types/</loc>
+      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>127.0.0.1/</loc>
+      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>127.0.0.1/publication/icip2018/</loc>
+      <lastmod>2018-10-01T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>127.0.0.1/publication/eccv2018/</loc>
       <lastmod>2018-08-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -46,7 +43,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>127.0.0.1/publication/</loc>
       <lastmod>2018-08-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -54,7 +51,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>127.0.0.1/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -62,7 +59,7 @@
     
     <url>
     
-      <loc>/project/</loc>
+      <loc>127.0.0.1/project/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -70,7 +67,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>127.0.0.1/talk/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -78,7 +75,7 @@
     
     <url>
     
-      <loc>/publication/ismar2016/</loc>
+      <loc>127.0.0.1/publication/ismar2016/</loc>
       <lastmod>2016-06-01T00:00:00+05:30</lastmod>
     </url>
     
@@ -86,99 +83,98 @@
     
     <url>
     
-      <loc>/project/mas/</loc>
+      <loc>127.0.0.1/project/mas/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/algorithms/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/tags/3d-modelling/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/categories/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/tags/algorithms/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/computer-graphics/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/categories/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/project/vcloud/</loc>
+      <loc>127.0.0.1/tags/computer-graphics/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/l-systems/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/tags/context-free-grammar/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/multi-agent-systems/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/project/vcloud/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/network-management/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/project/lsys/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/project/netpack/</loc>
+      <loc>127.0.0.1/tags/multi-agent-systems/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/project/lsys/</loc>
+      <loc>127.0.0.1/tags/network-management/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/system-management/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/project/netpack/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/tags/</loc>
-      <priority>0</priority>
+      <loc>127.0.0.1/tags/system-management/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>/project/vcp/</loc>
+      <loc>127.0.0.1/tags/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>127.0.0.1/project/vcp/</loc>
     </url>
     
   

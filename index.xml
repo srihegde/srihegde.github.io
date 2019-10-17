@@ -1,89 +1,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Srinidhi Hegde on Srinidhi Hegde</title>
-    <link>/</link>
+    <link>127.0.0.1/</link>
     <description>Recent content in Srinidhi Hegde on Srinidhi Hegde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0530</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="127.0.0.1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Where To Place: A Real-Time Visual Saliency Based Label Placement for Augmented Reality Applications</title>
-      <link>/publication/icip2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
-      
-      <guid>/publication/icip2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DrawInAir: A Lightweight Gestural Interface Based on Figertip Regression</title>
-      <link>/publication/eccv2018/</link>
+      <title>Pubications</title>
+      <link>127.0.0.1/publication/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
       
-      <guid>/publication/eccv2018/</guid>
+      <guid>127.0.0.1/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GestAR: Real Time Gesture Interaction for AR with Egocentric View</title>
-      <link>/publication/ismar2016/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
+      <title>Posts</title>
+      <link>127.0.0.1/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
       
-      <guid>/publication/ismar2016/</guid>
+      <guid>127.0.0.1/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title> Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>/project/mas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>127.0.0.1/project/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
       
-      <guid>/project/mas/</guid>
-      <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
-</description>
+      <guid>127.0.0.1/project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Creating Cloud of Local Servers</title>
-      <link>/project/vcloud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>127.0.0.1/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
       
-      <guid>/project/vcloud/</guid>
-      <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Network Traffic Generator and Packet Analyzer</title>
-      <link>/project/netpack/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/netpack/</guid>
-      <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Procedural Tree Modelling Using L-Systems</title>
-      <link>/project/lsys/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/lsys/</guid>
-      <description>&lt;p&gt;A novel technique to convert a captured image of a vegetation to a 3D model using L-Systems, a grammar for procedural vegetation modelling.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Virtual Campus Project</title>
-      <link>/project/vcp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/vcp/</guid>
-      <description>&lt;p&gt;This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.&lt;/p&gt;
-</description>
+      <guid>127.0.0.1/talk/</guid>
+      <description></description>
     </item>
     
   </channel>
