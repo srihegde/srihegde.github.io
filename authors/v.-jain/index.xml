@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Jain | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/authors/v.-jain/</link>
+      <atom:link href="https://srihegde.github.io/authors/v.-jain/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Jain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>V. Jain</title>
+      <link>https://srihegde.github.io/authors/v.-jain/</link>
+    </image>
+    
+    <item>
+      <title>DrawInAir: A Lightweight Gestural Interface Based on Figertip Regression</title>
+      <link>https://srihegde.github.io/publication/eccv2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/eccv2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

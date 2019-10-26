@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>System Management on Srinidhi Hegde</title>
-    <link>/tags/system-management/</link>
-    <description>Recent content in System Management on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="/tags/system-management/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>System Management | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tags/system-management/</link>
+      <atom:link href="https://srihegde.github.io/tags/system-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>System Management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>System Management</title>
+      <link>https://srihegde.github.io/tags/system-management/</link>
+    </image>
     
     <item>
       <title>Creating Cloud of Local Servers</title>
-      <link>/project/vcloud/</link>
+      <link>https://srihegde.github.io/project/vcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/vcloud/</guid>
-      <description>Cloud based Virtual Machine management system using KVM.</description>
+      <guid>https://srihegde.github.io/project/vcloud/</guid>
+      <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Network Traffic Generator and Packet Analyzer</title>
-      <link>/project/netpack/</link>
+      <link>https://srihegde.github.io/project/netpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/netpack/</guid>
-      <description>Network traffic analysis and IPv4 packet generation for custom simulation.</description>
+      <guid>https://srihegde.github.io/project/netpack/</guid>
+      <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

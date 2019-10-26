@@ -1,76 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Srinidhi Hegde</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Tags | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tags/</link>
+      <atom:link href="https://srihegde.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://srihegde.github.io/tags/</link>
+    </image>
     
     <item>
       <title>3D Modelling</title>
-      <link>/tags/3d-modelling/</link>
+      <link>https://srihegde.github.io/tags/3d-modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/3d-modelling/</guid>
+      <guid>https://srihegde.github.io/tags/3d-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Algorithms</title>
-      <link>/tags/algorithms/</link>
+      <link>https://srihegde.github.io/tags/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/algorithms/</guid>
+      <guid>https://srihegde.github.io/tags/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Graphics</title>
-      <link>/tags/computer-graphics/</link>
+      <link>https://srihegde.github.io/tags/computer-graphics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/computer-graphics/</guid>
+      <guid>https://srihegde.github.io/tags/computer-graphics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-free Grammar</title>
-      <link>/tags/context-free-grammar/</link>
+      <link>https://srihegde.github.io/tags/context-free-grammar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/context-free-grammar/</guid>
+      <guid>https://srihegde.github.io/tags/context-free-grammar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Agent systems</title>
-      <link>/tags/multi-agent-systems/</link>
+      <link>https://srihegde.github.io/tags/multi-agent-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multi-agent-systems/</guid>
+      <guid>https://srihegde.github.io/tags/multi-agent-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Management</title>
-      <link>/tags/network-management/</link>
+      <link>https://srihegde.github.io/tags/network-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/network-management/</guid>
+      <guid>https://srihegde.github.io/tags/network-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System Management</title>
-      <link>/tags/system-management/</link>
+      <link>https://srihegde.github.io/tags/system-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/system-management/</guid>
+      <guid>https://srihegde.github.io/tags/system-management/</guid>
       <description></description>
     </item>
     

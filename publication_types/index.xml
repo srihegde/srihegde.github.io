@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Srinidhi Hegde</title>
-    <link>/publication_types/</link>
-    <description>Recent content in Publication_types on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0530</lastBuildDate>
-    
-	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publication_types | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/publication_types/</link>
+      <atom:link href="https://srihegde.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://srihegde.github.io/publication_types/</link>
+    </image>
     
     <item>
       <title>1</title>
-      <link>/publication_types/1/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
-      
-      <guid>/publication_types/1/</guid>
+      <link>https://srihegde.github.io/publication_types/1/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     

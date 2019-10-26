@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Rakholia | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/authors/n.-rakholia/</link>
+      <atom:link href="https://srihegde.github.io/authors/n.-rakholia/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Rakholia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>N. Rakholia</title>
+      <link>https://srihegde.github.io/authors/n.-rakholia/</link>
+    </image>
+    
+    <item>
+      <title>Where To Place: A Real-Time Visual Saliency Based Label Placement for Augmented Reality Applications</title>
+      <link>https://srihegde.github.io/publication/icip2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/icip2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

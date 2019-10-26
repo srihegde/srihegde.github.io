@@ -1,48 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Srinidhi Hegde on Srinidhi Hegde</title>
-    <link>/</link>
-    <description>Recent content in Srinidhi Hegde on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0530</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <title>Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/</link>
+      <atom:link href="https://srihegde.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Srinidhi Hegde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Srinidhi Hegde</title>
+      <link>https://srihegde.github.io/</link>
+    </image>
     
     <item>
-      <title>Pubications</title>
-      <link>/publication/</link>
+      <title>SmartOverlays: A Visual Saliency DrivenLabel Placement for Intelligent Human-Computer Interfaces</title>
+      <link>https://srihegde.github.io/publication/wacv2020/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/wacv2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where To Place: A Real-Time Visual Saliency Based Label Placement for Augmented Reality Applications</title>
+      <link>https://srihegde.github.io/publication/icip2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/icip2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DrawInAir: A Lightweight Gestural Interface Based on Figertip Regression</title>
+      <link>https://srihegde.github.io/publication/eccv2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
-      
-      <guid>/publication/</guid>
+      <guid>https://srihegde.github.io/publication/eccv2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>/post/</guid>
+      <title>GestAR: Real Time Gesture Interaction for AR with Egocentric View</title>
+      <link>https://srihegde.github.io/publication/ismar2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/ismar2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/project/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>/project/</guid>
-      <description></description>
+      <title> Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
+      <link>https://srihegde.github.io/project/mas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/mas/</guid>
+      <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>/talk/</guid>
-      <description></description>
+      <title>Creating Cloud of Local Servers</title>
+      <link>https://srihegde.github.io/project/vcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/vcloud/</guid>
+      <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling Vegetation with L-Systems Using an Image </title>
+      <link>https://srihegde.github.io/project/lsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/lsys/</guid>
+      <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Network Traffic Generator and Packet Analyzer</title>
+      <link>https://srihegde.github.io/project/netpack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/netpack/</guid>
+      <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Campus Project</title>
+      <link>https://srihegde.github.io/project/vcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/vcp/</guid>
+      <description>&lt;p&gt;This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

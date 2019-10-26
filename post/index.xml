@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Srinidhi Hegde</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Posts | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/post/</link>
+      <atom:link href="https://srihegde.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://srihegde.github.io/post/</link>
+    </image>
     
   </channel>
 </rss>

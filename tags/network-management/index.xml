@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network Management on Srinidhi Hegde</title>
-    <link>/tags/network-management/</link>
-    <description>Recent content in Network Management on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="/tags/network-management/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Network Management | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tags/network-management/</link>
+      <atom:link href="https://srihegde.github.io/tags/network-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Management</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Network Management</title>
+      <link>https://srihegde.github.io/tags/network-management/</link>
+    </image>
     
     <item>
       <title>Network Traffic Generator and Packet Analyzer</title>
-      <link>/project/netpack/</link>
+      <link>https://srihegde.github.io/project/netpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/netpack/</guid>
-      <description>Network traffic analysis and IPv4 packet generation for custom simulation.</description>
+      <guid>https://srihegde.github.io/project/netpack/</guid>
+      <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

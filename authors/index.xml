@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/authors/</link>
+      <atom:link href="https://srihegde.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://srihegde.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>A. Kalkar</title>
+      <link>https://srihegde.github.io/authors/a.-kalkar/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/a.-kalkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Maurya</title>
+      <link>https://srihegde.github.io/authors/j.-maurya/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/j.-maurya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Hebbalaguppe</title>
+      <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/r.-hebbalaguppe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Hegde</title>
+      <link>https://srihegde.github.io/authors/s.-hegde/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/s.-hegde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. Rakholia</title>
+      <link>https://srihegde.github.io/authors/n.-rakholia/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/n.-rakholia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Garg</title>
+      <link>https://srihegde.github.io/authors/g.-garg/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/g.-garg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Vig</title>
+      <link>https://srihegde.github.io/authors/l.-vig/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/l.-vig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Perla</title>
+      <link>https://srihegde.github.io/authors/r.-perla/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/r.-perla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Jain</title>
+      <link>https://srihegde.github.io/authors/v.-jain/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/v.-jain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Hassan</title>
+      <link>https://srihegde.github.io/authors/e.-hassan/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/e.-hassan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://srihegde.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a researcher at Innovation Labs, Tata Consultancy Services. My research interests lie in the intersection of Computer Vision, Computer Graphics and Deep Learning with an application domain of Augmented and Virtual Reality. I completed my undergrad with Computer Science and Engineering major at Indraprastha Institute of Information Technology Delhi (IIIT-Delhi). I am passionate about problem solving in general. Apart from research, I indulge myself in music and travelling.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

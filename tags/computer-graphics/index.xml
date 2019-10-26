@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer Graphics on Srinidhi Hegde</title>
-    <link>/tags/computer-graphics/</link>
-    <description>Recent content in Computer Graphics on Srinidhi Hegde</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Computer Graphics | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tags/computer-graphics/</link>
+      <atom:link href="https://srihegde.github.io/tags/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Graphics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Computer Graphics</title>
+      <link>https://srihegde.github.io/tags/computer-graphics/</link>
+    </image>
     
     <item>
       <title>Modelling Vegetation with L-Systems Using an Image </title>
-      <link>/project/lsys/</link>
+      <link>https://srihegde.github.io/project/lsys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/lsys/</guid>
-      <description>Procedural modelling of vegetation using context-free grammar.</description>
+      <guid>https://srihegde.github.io/project/lsys/</guid>
+      <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Virtual Campus Project</title>
-      <link>/project/vcp/</link>
+      <link>https://srihegde.github.io/project/vcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/vcp/</guid>
-      <description>Creating a virtual walk-through of IIIT-Delhi campus.</description>
+      <guid>https://srihegde.github.io/project/vcp/</guid>
+      <description>&lt;p&gt;This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
