@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://srihegde.github.io/project/mas/mas/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/project/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://srihegde.github.io/publication_types/1/</loc>
+    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/publication_types/3/</loc>
     <lastmod>2019-10-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -38,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://srihegde.github.io/authors/r.-prasad/</loc>
+    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://srihegde.github.io/authors/s.-hegde/</loc>
     <lastmod>2019-10-01T00:00:00+05:30</lastmod>
   </url>
@@ -48,7 +73,12 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/</loc>
+    <loc>https://srihegde.github.io/authors/v.-kumar/</loc>
+    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/publication/icassp2020/</loc>
     <lastmod>2019-10-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -88,11 +118,6 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/</loc>
-    <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://srihegde.github.io/authors/e.-hassan/</loc>
     <lastmod>2016-06-01T00:00:00+05:30</lastmod>
   </url>
@@ -107,15 +132,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/mas/</loc>
-  </url>
-  
-  <url>
     <loc>https://srihegde.github.io/tags/3d-modelling/</loc>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/tags/algorithms/</loc>
   </url>
   
   <url>
@@ -131,15 +148,11 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/vcloud/</loc>
+    <loc>https://srihegde.github.io/project/vcloud/vcloud/</loc>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/lsys/</loc>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/tags/multi-agent-systems/</loc>
+    <loc>https://srihegde.github.io/project/lsys/lsys/</loc>
   </url>
   
   <url>
@@ -147,7 +160,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/netpack/</loc>
+    <loc>https://srihegde.github.io/project/netpack/netpack/</loc>
   </url>
   
   <url>
@@ -167,7 +180,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/vcp/</loc>
+    <loc>https://srihegde.github.io/project/vcp/vcp/</loc>
   </url>
   
 </urlset>

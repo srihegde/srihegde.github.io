@@ -14,9 +14,9 @@
     
     <item>
       <title>Modelling Vegetation with L-Systems Using an Image </title>
-      <link>https://srihegde.github.io/project/lsys/</link>
+      <link>https://srihegde.github.io/project/lsys/lsys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/lsys/</guid>
+      <guid>https://srihegde.github.io/project/lsys/lsys/</guid>
       <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
 </description>
     </item>

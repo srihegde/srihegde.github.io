@@ -5,7 +5,7 @@
     <link>https://srihegde.github.io/</link>
       <atom:link href="https://srihegde.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Srinidhi Hegde</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
       <title>Srinidhi Hegde</title>
@@ -13,10 +13,27 @@
     </image>
     
     <item>
-      <title>SmartOverlays: A Visual Saliency DrivenLabel Placement for Intelligent Human-Computer Interfaces</title>
+      <title>Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
+      <link>https://srihegde.github.io/project/mas/mas/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/mas/mas/</guid>
+      <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
       <link>https://srihegde.github.io/publication/wacv2020/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/publication/wacv2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework</title>
+      <link>https://srihegde.github.io/publication/icassp2020/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/icassp2020/</guid>
       <description></description>
     </item>
     
@@ -45,46 +62,37 @@
     </item>
     
     <item>
-      <title> Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>https://srihegde.github.io/project/mas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/mas/</guid>
-      <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Creating Cloud of Local Servers</title>
-      <link>https://srihegde.github.io/project/vcloud/</link>
+      <link>https://srihegde.github.io/project/vcloud/vcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/vcloud/</guid>
+      <guid>https://srihegde.github.io/project/vcloud/vcloud/</guid>
       <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modelling Vegetation with L-Systems Using an Image </title>
-      <link>https://srihegde.github.io/project/lsys/</link>
+      <link>https://srihegde.github.io/project/lsys/lsys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/lsys/</guid>
+      <guid>https://srihegde.github.io/project/lsys/lsys/</guid>
       <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Network Traffic Generator and Packet Analyzer</title>
-      <link>https://srihegde.github.io/project/netpack/</link>
+      <link>https://srihegde.github.io/project/netpack/netpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/netpack/</guid>
+      <guid>https://srihegde.github.io/project/netpack/netpack/</guid>
       <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Virtual Campus Project</title>
-      <link>https://srihegde.github.io/project/vcp/</link>
+      <link>https://srihegde.github.io/project/vcp/vcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/vcp/</guid>
+      <guid>https://srihegde.github.io/project/vcp/vcp/</guid>
       <description>&lt;p&gt;This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.&lt;/p&gt;
 </description>
     </item>
