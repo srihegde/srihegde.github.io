@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Network Management | Srinidhi Hegde</title>
-    <link>https://srihegde.github.io/tags/network-management/</link>
-      <atom:link href="https://srihegde.github.io/tags/network-management/index.xml" rel="self" type="application/rss+xml" />
-    <description>Network Management</description>
+    <title>Arxiv_projects | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/arxiv_projects/</link>
+      <atom:link href="https://srihegde.github.io/arxiv_projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arxiv_projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
-      <title>Network Management</title>
-      <link>https://srihegde.github.io/tags/network-management/</link>
+      <title>Arxiv_projects</title>
+      <link>https://srihegde.github.io/arxiv_projects/</link>
     </image>
+    
+    <item>
+      <title>Creating Cloud of Local Servers</title>
+      <link>https://srihegde.github.io/arxiv_projects/vcloud/vcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/arxiv_projects/vcloud/vcloud/</guid>
+      <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Network Traffic Generator and Packet Analyzer</title>

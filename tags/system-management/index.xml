@@ -14,18 +14,18 @@
     
     <item>
       <title>Creating Cloud of Local Servers</title>
-      <link>https://srihegde.github.io/project/vcloud/vcloud/</link>
+      <link>https://srihegde.github.io/arxiv_projects/vcloud/vcloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/vcloud/vcloud/</guid>
+      <guid>https://srihegde.github.io/arxiv_projects/vcloud/vcloud/</guid>
       <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Network Traffic Generator and Packet Analyzer</title>
-      <link>https://srihegde.github.io/project/netpack/netpack/</link>
+      <link>https://srihegde.github.io/arxiv_projects/netpack/netpack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/netpack/netpack/</guid>
+      <guid>https://srihegde.github.io/arxiv_projects/netpack/netpack/</guid>
       <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
 </description>
     </item>
