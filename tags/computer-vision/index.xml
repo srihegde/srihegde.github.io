@@ -44,7 +44,7 @@
       <link>https://srihegde.github.io/project/btp/btp/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/project/btp/btp/</guid>
-      <description>&lt;p&gt;Employing CNNs for an end-to-end reconstruction of the indoor scenes through camera relocalization, through PoseNet, and depth estimation, through multi-scale fully convolutional network, from a single RGB image during inference and registering the 3D reconstructed patches through iterative closest point algorithm.&lt;/p&gt;
+      <description>&lt;p&gt;Employing CNNs for an end-to-end reconstruction of the indoor scenes through camera relocalization, through PoseNet, and depth estimation, through multi-scale fully convolutional network, from a single RGB image during inference and registering the 3D reconstructed patches through iterative closest point algorithm. A portion of the dataset collected during the project is also released.&lt;/p&gt;
 </description>
     </item>
     
