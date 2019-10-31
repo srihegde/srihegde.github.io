@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tags/optimization/</link>
+      <atom:link href="https://srihegde.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>optimization</title>
+      <link>https://srihegde.github.io/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Deep Neural Network Compression</title>
+      <link>https://srihegde.github.io/project/nncomp/nncomp/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/nncomp/nncomp/</guid>
+      <description>&lt;p&gt;Compressing the memory-intensive DNN models with a minimal compromise in model accuracy using variational methods and knowledge distillation. Another part of projects involves proposing theoretical guarantees on the knowledge distillation models for efficient neural architecture search.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

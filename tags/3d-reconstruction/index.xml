@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D reconstruction | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tags/3d-reconstruction/</link>
+      <atom:link href="https://srihegde.github.io/tags/3d-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D reconstruction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>3D reconstruction</title>
+      <link>https://srihegde.github.io/tags/3d-reconstruction/</link>
+    </image>
+    
+    <item>
+      <title>Robust 3D Reconstruction of Indoor Scenes using Deep Learning</title>
+      <link>https://srihegde.github.io/project/btp/btp/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/btp/btp/</guid>
+      <description>&lt;p&gt;Employing CNNs for an end-to-end reconstruction of the indoor scenes through camera relocalization, through PoseNet, and depth estimation, through multi-scale fully convolutional network, from a single RGB image during inference and registering the 3D reconstructed patches through iterative closest point algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

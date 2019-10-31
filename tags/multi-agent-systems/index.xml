@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-Agent systems | Srinidhi Hegde</title>
+    <title>multi-agent systems | Srinidhi Hegde</title>
     <link>https://srihegde.github.io/tags/multi-agent-systems/</link>
       <atom:link href="https://srihegde.github.io/tags/multi-agent-systems/index.xml" rel="self" type="application/rss+xml" />
-    <description>Multi-Agent systems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>multi-agent systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
-      <title>Multi-Agent systems</title>
+      <title>multi-agent systems</title>
       <link>https://srihegde.github.io/tags/multi-agent-systems/</link>
     </image>
     
     <item>
-      <title> Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>https://srihegde.github.io/project/mas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/mas/</guid>
+      <title>Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
+      <link>https://srihegde.github.io/project/mas/mas/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/mas/mas/</guid>
       <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
 </description>
     </item>
