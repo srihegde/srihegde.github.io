@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/nncomp/nncomp/</loc>
+    <loc>https://srihegde.github.io/project/nncomp/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/animation/animation/</loc>
+    <loc>https://srihegde.github.io/project/animation/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/smartov/smartov/</loc>
+    <loc>https://srihegde.github.io/project/smartov/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/drawinair/drawinair/</loc>
+    <loc>https://srihegde.github.io/project/drawinair/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,7 +208,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/btp/btp/</loc>
+    <loc>https://srihegde.github.io/project/btp/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,7 +228,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/mas/mas/</loc>
+    <loc>https://srihegde.github.io/project/mas/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -258,13 +258,28 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/lsys/lsys/</loc>
+    <loc>https://srihegde.github.io/project/lsys/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/project/visloc/visloc/</loc>
+    <loc>https://srihegde.github.io/project/visloc/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/tags/immersive-rendering/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/project/vcp/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/tags/virtual-reality/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -301,10 +316,6 @@
   
   <url>
     <loc>https://srihegde.github.io/tags/system-management/</loc>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/project/vcp/vcp/</loc>
   </url>
   
 </urlset>

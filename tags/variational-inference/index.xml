@@ -14,9 +14,9 @@
     
     <item>
       <title>Deep Neural Network Compression</title>
-      <link>https://srihegde.github.io/project/nncomp/nncomp/</link>
+      <link>https://srihegde.github.io/project/nncomp/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/nncomp/nncomp/</guid>
+      <guid>https://srihegde.github.io/project/nncomp/</guid>
       <description>&lt;p&gt;Compressing the memory-intensive DNN models with a minimal compromise in model accuracy using variational methods and knowledge distillation. Another part of projects involves proposing theoretical guarantees on the knowledge distillation models for efficient neural architecture search.&lt;/p&gt;
 </description>
     </item>

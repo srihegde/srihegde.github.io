@@ -14,18 +14,18 @@
     
     <item>
       <title>Reverse VooDoo</title>
-      <link>https://srihegde.github.io/project/animation/animation/</link>
+      <link>https://srihegde.github.io/project/animation/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/animation/animation/</guid>
+      <guid>https://srihegde.github.io/project/animation/</guid>
       <description>&lt;p&gt;Automating the animation through learning and transferring motion cues from the real RGB-D videos to virtual 3D meshes. We use graph based structure correspondences to map the motion between the two 3D entities such as point cloud and 3D meshes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vision Based Outdoor Localization</title>
-      <link>https://srihegde.github.io/project/visloc/visloc/</link>
+      <link>https://srihegde.github.io/project/visloc/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/visloc/visloc/</guid>
+      <guid>https://srihegde.github.io/project/visloc/</guid>
       <description>&lt;p&gt;Estimating GPS location of a single RGB image of outdoor environment by, firstly, GPS coordinate retrieval from image classification and secondly, fine tuning the location estimate using structure from motion and and position triangulation. This application was interfaced by an Android mobile application.&lt;/p&gt;
 </description>
     </item>

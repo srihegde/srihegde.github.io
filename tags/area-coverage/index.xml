@@ -14,9 +14,9 @@
     
     <item>
       <title>Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>https://srihegde.github.io/project/mas/mas/</link>
+      <link>https://srihegde.github.io/project/mas/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/mas/mas/</guid>
+      <guid>https://srihegde.github.io/project/mas/</guid>
       <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
 </description>
     </item>

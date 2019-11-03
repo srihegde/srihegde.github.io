@@ -14,18 +14,18 @@
     
     <item>
       <title>Deep Neural Network Compression</title>
-      <link>https://srihegde.github.io/project/nncomp/nncomp/</link>
+      <link>https://srihegde.github.io/project/nncomp/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/nncomp/nncomp/</guid>
+      <guid>https://srihegde.github.io/project/nncomp/</guid>
       <description>&lt;p&gt;Compressing the memory-intensive DNN models with a minimal compromise in model accuracy using variational methods and knowledge distillation. Another part of projects involves proposing theoretical guarantees on the knowledge distillation models for efficient neural architecture search.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Reverse VooDoo</title>
-      <link>https://srihegde.github.io/project/animation/animation/</link>
+      <link>https://srihegde.github.io/project/animation/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/animation/animation/</guid>
+      <guid>https://srihegde.github.io/project/animation/</guid>
       <description>&lt;p&gt;Automating the animation through learning and transferring motion cues from the real RGB-D videos to virtual 3D meshes. We use graph based structure correspondences to map the motion between the two 3D entities such as point cloud and 3D meshes.&lt;/p&gt;
 </description>
     </item>
@@ -48,9 +48,9 @@
     
     <item>
       <title>Non Intrusive Overlay Placement in User Interfaces</title>
-      <link>https://srihegde.github.io/project/smartov/smartov/</link>
+      <link>https://srihegde.github.io/project/smartov/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/smartov/smartov/</guid>
+      <guid>https://srihegde.github.io/project/smartov/</guid>
       <description>&lt;p&gt;A novel method for the placement of labels corresponding to objects of interest in images/videos/live feeds that is non-intrusive, relevant and temporally coherent. We employ different techniques ranging from search space optimization to visual saliency based neural network framework.&lt;/p&gt;
 </description>
     </item>
@@ -65,9 +65,9 @@
     
     <item>
       <title>Draw In Air</title>
-      <link>https://srihegde.github.io/project/drawinair/drawinair/</link>
+      <link>https://srihegde.github.io/project/drawinair/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/drawinair/drawinair/</guid>
+      <guid>https://srihegde.github.io/project/drawinair/</guid>
       <description>&lt;p&gt;Hand gesture classification through fingertip coordinate regression in a temporal model for touch-less interactions in AR. We highlight how a model, that is separately trained to regress fingertip in conjunction with a classifier trained on limited classification data, would perform better over end-to-end models. We also propose a dataset of 10 egocentric pointing gestures designed for AR applications for testing our model.&lt;/p&gt;
 </description>
     </item>
@@ -82,9 +82,9 @@
     
     <item>
       <title>Robust 3D Reconstruction of Indoor Scenes using Deep Learning</title>
-      <link>https://srihegde.github.io/project/btp/btp/</link>
+      <link>https://srihegde.github.io/project/btp/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/btp/btp/</guid>
+      <guid>https://srihegde.github.io/project/btp/</guid>
       <description>&lt;p&gt;Employing CNNs for an end-to-end reconstruction of the indoor scenes through camera relocalization, through PoseNet, and depth estimation, through multi-scale fully convolutional network, from a single RGB image during inference and registering the 3D reconstructed patches through iterative closest point algorithm. A portion of the dataset collected during the project is also released.&lt;/p&gt;
 </description>
     </item>
@@ -99,28 +99,37 @@
     
     <item>
       <title>Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
-      <link>https://srihegde.github.io/project/mas/mas/</link>
+      <link>https://srihegde.github.io/project/mas/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/mas/mas/</guid>
+      <guid>https://srihegde.github.io/project/mas/</guid>
       <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modelling Vegetation with L-Systems Using an Image</title>
-      <link>https://srihegde.github.io/project/lsys/lsys/</link>
+      <link>https://srihegde.github.io/project/lsys/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/lsys/lsys/</guid>
+      <guid>https://srihegde.github.io/project/lsys/</guid>
       <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vision Based Outdoor Localization</title>
-      <link>https://srihegde.github.io/project/visloc/visloc/</link>
+      <link>https://srihegde.github.io/project/visloc/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/visloc/visloc/</guid>
+      <guid>https://srihegde.github.io/project/visloc/</guid>
       <description>&lt;p&gt;Estimating GPS location of a single RGB image of outdoor environment by, firstly, GPS coordinate retrieval from image classification and secondly, fine tuning the location estimate using structure from motion and and position triangulation. This application was interfaced by an Android mobile application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Campus Project</title>
+      <link>https://srihegde.github.io/project/vcp/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/vcp/</guid>
+      <description>&lt;p&gt;This project proposes to build a virtual smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.&lt;/p&gt;
 </description>
     </item>
     
@@ -139,15 +148,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/arxiv_projects/netpack/netpack/</guid>
       <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Virtual Campus Project</title>
-      <link>https://srihegde.github.io/project/vcp/vcp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/vcp/vcp/</guid>
-      <description>&lt;p&gt;This project proposes to build a smart campus infrastructure. A 3D interactive and immersive virtual/mixed reality environment will be designed to support geospatial services including smart navigation and telepresence. Two key aspects of the system are 3D modeling and rendering.&lt;/p&gt;
 </description>
     </item>
     
