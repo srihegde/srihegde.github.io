@@ -1,6 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://srihegde.github.io/publication_types/1/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/authors/r.-hebbalaguppe/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/authors/r.-prasad/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/authors/s.-hegde/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/authors/v.-kumar/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/publication/icassp2020/</loc>
+    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
+  </url>
   
   <url>
     <loc>https://srihegde.github.io/tags/animation/</loc>
@@ -53,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://srihegde.github.io/tags/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -68,22 +113,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/publication_types/1/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/publication_types/3/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://srihegde.github.io/authors/a.-kalkar/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/</loc>
     <lastmod>2019-10-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -93,42 +123,12 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/publication_types/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/publication/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/r.-hebbalaguppe/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/r.-prasad/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/s.-hegde/</loc>
+    <loc>https://srihegde.github.io/publication/esann2020/</loc>
     <lastmod>2019-10-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://srihegde.github.io/publication/wacv2020/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/v.-kumar/</loc>
-    <lastmod>2019-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/publication/icassp2020/</loc>
     <lastmod>2019-10-01T00:00:00+05:30</lastmod>
   </url>
   
