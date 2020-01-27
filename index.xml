@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>An Empirical Study of Iterative Knowledge Distillation for Neural Network Compression</title>
+      <link>https://srihegde.github.io/publication/esann2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/esann2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
+      <link>https://srihegde.github.io/publication/wacv2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/wacv2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework</title>
       <link>https://srihegde.github.io/publication/icassp2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
@@ -39,28 +55,20 @@
     </item>
     
     <item>
-      <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
-      <link>https://srihegde.github.io/publication/esann2020/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/esann2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
-      <link>https://srihegde.github.io/publication/wacv2020/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/wacv2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Non Intrusive Overlay Placement in User Interfaces</title>
       <link>https://srihegde.github.io/project/smartov/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/project/smartov/</guid>
       <description>&lt;p&gt;A novel method for the placement of labels corresponding to objects of interest in images/videos/live feeds that is non-intrusive, relevant and temporally coherent. We employ different techniques ranging from search space optimization to visual saliency based neural network framework.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>DrawInAir: A Lightweight Gestural Interface Based on Fingertip Regression</title>
+      <link>https://srihegde.github.io/publication/eccv2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/eccv2018/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -78,14 +86,6 @@
       <guid>https://srihegde.github.io/project/drawinair/</guid>
       <description>&lt;p&gt;Hand gesture classification through fingertip coordinate regression in a temporal model for touch-less interactions in AR. We highlight how a model, that is separately trained to regress fingertip in conjunction with a classifier trained on limited classification data, would perform better over end-to-end models. We also propose a dataset of 10 egocentric pointing gestures designed for AR applications for testing our model.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>DrawInAir: A Lightweight Gestural Interface Based on Fingertip Regression</title>
-      <link>https://srihegde.github.io/publication/eccv2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/eccv2018/</guid>
-      <description></description>
     </item>
     
     <item>
