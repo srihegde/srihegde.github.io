@@ -5,7 +5,7 @@
     <link>https://srihegde.github.io/authors/</link>
       <atom:link href="https://srihegde.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>A. Kalkar</title>
       <link>https://srihegde.github.io/authors/a.-kalkar/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/authors/a.-kalkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Maurya</title>
+      <link>https://srihegde.github.io/authors/j.-maurya/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/j.-maurya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Hebbalaguppe</title>
+      <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/r.-hebbalaguppe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Hegde</title>
+      <link>https://srihegde.github.io/authors/s.-hegde/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/s.-hegde/</guid>
       <description></description>
     </item>
     
@@ -29,34 +53,10 @@
     </item>
     
     <item>
-      <title>J. Maurya</title>
-      <link>https://srihegde.github.io/authors/j.-maurya/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/j.-maurya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Hebbalaguppe</title>
-      <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/r.-hebbalaguppe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R. Prasad</title>
       <link>https://srihegde.github.io/authors/r.-prasad/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/authors/r.-prasad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Hegde</title>
-      <link>https://srihegde.github.io/authors/s.-hegde/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/s.-hegde/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent Updates | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/news/</link>
+      <atom:link href="https://srihegde.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent Updates</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/img/icon-192.png</url>
+      <title>Recent Updates</title>
+      <link>https://srihegde.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title>Selected as mentor for PanIIT Hackathon at [TCS-PanIIT Conclave 2019](https://www.tcs.com/paniit-conclave-2019) organized by TCS and IIT Delhi.</title>
+      <link>https://srihegde.github.io/news/14-01-2019/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://srihegde.github.io/news/14-01-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

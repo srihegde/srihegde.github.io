@@ -5,7 +5,7 @@
     <link>https://srihegde.github.io/</link>
       <atom:link href="https://srihegde.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Srinidhi Hegde</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
       <title>Srinidhi Hegde</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>An Empirical Study of Iterative Knowledge Distillation for Neural Network Compression</title>
-      <link>https://srihegde.github.io/publication/esann2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/esann2020/</guid>
+      <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
+      <link>https://srihegde.github.io/publication/wacv2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/wacv2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
-      <link>https://srihegde.github.io/publication/wacv2020/</link>
+      <title>An Empirical Study of Iterative Knowledge Distillation for Neural Network Compression</title>
+      <link>https://srihegde.github.io/publication/esann2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/wacv2020/</guid>
+      <guid>https://srihegde.github.io/publication/esann2020/</guid>
       <description></description>
     </item>
     
@@ -61,6 +61,14 @@
       <guid>https://srihegde.github.io/project/smartov/</guid>
       <description>&lt;p&gt;A novel method for the placement of labels corresponding to objects of interest in images/videos/live feeds that is non-intrusive, relevant and temporally coherent. We employ different techniques ranging from search space optimization to visual saliency based neural network framework.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Selected as mentor for PanIIT Hackathon at [TCS-PanIIT Conclave 2019](https://www.tcs.com/paniit-conclave-2019) organized by TCS and IIT Delhi.</title>
+      <link>https://srihegde.github.io/news/14-01-2019/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>https://srihegde.github.io/news/14-01-2019/</guid>
+      <description></description>
     </item>
     
     <item>
