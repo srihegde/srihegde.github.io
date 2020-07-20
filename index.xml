@@ -64,14 +64,6 @@
     </item>
     
     <item>
-      <title>Selected as mentor for PanIIT Hackathon at [TCS-PanIIT Conclave 2019](https://www.tcs.com/paniit-conclave-2019) organized by TCS and IIT Delhi.</title>
-      <link>https://srihegde.github.io/news/14-01-2019/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>https://srihegde.github.io/news/14-01-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DrawInAir: A Lightweight Gestural Interface Based on Fingertip Regression</title>
       <link>https://srihegde.github.io/publication/eccv2018/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0530</pubDate>
@@ -164,6 +156,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/arxiv_projects/vcloud/vcloud/</guid>
       <description>&lt;p&gt;Developed a web application, that takes input from the user about his/her preferences about the specification of the machine which include - operating system, main memory space, disk(storage) space, number of cores. Then we return the IP of the machine (Virtual Machine) assigned according to the mentioned preferences, for a particular amount of time. We use KVM for VM management.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Events Archive</title>
+      <link>https://srihegde.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;20th July 2020&lt;/em&gt;: Invited as a reviewer for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, impact factor: 3.599). My first journal reviewing experience!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;21st Mar 2020&lt;/em&gt;: TreasAR Hunt - an AR based treasure hunt - organized for Re.Fresh 2020 at TCS Innovation Labs New Delhi. The &lt;a href=&#34;https://github.com/srihegde/TreasAR-Hunt&#34; target=&#34;_blank&#34;&gt;source code&lt;/a&gt; is now available. Check it out!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;24th Jan 2020&lt;/em&gt;: Variational Student: Our work on neural network compression through sparsification in Knowledge Distillation framework got accepted as an &lt;strong&gt;&amp;ldquo;oral presentation&amp;rdquo;&lt;/strong&gt; at &lt;a href=&#34;https://2020.ieeeicassp.org/&#34; target=&#34;_blank&#34;&gt;ICASSP 2020&lt;/a&gt; to be held at Barcelona, Spain.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;24th Jan 2020&lt;/em&gt;: IKD: Our work on empirical analysis of iterative knowledge distillation methods got accepted at &lt;a href=&#34;https://www.esann.org/&#34; target=&#34;_blank&#34;&gt;ESANN 2020&lt;/a&gt; to be held at Bruges, Belgium.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;17th Sep 2019&lt;/em&gt;: SmartOverlays: Our work on situated visualization in AR and video application got accepted at &lt;a href=&#34;http://wacv20.wacv.net/&#34; target=&#34;_blank&#34;&gt;WACV 2020&lt;/a&gt; to be held at Aspen, Colorado.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;6th Jul 2019&lt;/em&gt;: Attended EEML Summer School 2019, Bucharest, Romania. My experience was &lt;a href=&#34;https://www.linkedin.com/posts/srihegde_eeml2019-tcsresearch-bayesianlearning-activity-6553721146418790400-5fV8&#34; target=&#34;_blank&#34;&gt;awesome&lt;/a&gt;!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;15th March 2019&lt;/em&gt;: Selected for &lt;a href=&#34;https://www.eeml.eu/&#34; target=&#34;_blank&#34;&gt;EEML Summer School 2019&lt;/a&gt;. Travelling to Bucharest, Romania in July.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;21st Jan 2019&lt;/em&gt;: TCS-PanIIT Conclave 2019- &lt;a href=&#34;https://www.linkedin.com/posts/srihegde_hackathon-iit-paniit-activity-6495213414233796608-GlZh&#34; target=&#34;_blank&#34;&gt;Hackathon Update&lt;/a&gt;: Mentored teams finished at 3rd and 4th positions in the event. Kudos to the team members!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;14th Jan 2019&lt;/em&gt;: Selected as mentor for PanIIT Hackathon at &lt;a href=&#34;https://www.tcs.com/paniit-conclave-2019&#34; target=&#34;_blank&#34;&gt;TCS-PanIIT Conclave 2019&lt;/a&gt; organized by TCS and IIT Delhi.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
