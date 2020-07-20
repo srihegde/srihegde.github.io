@@ -5,12 +5,20 @@
     <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
       <atom:link href="https://srihegde.github.io/authors/r.-hebbalaguppe/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Hebbalaguppe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
       <title>R. Hebbalaguppe</title>
       <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
     </image>
+    
+    <item>
+      <title>Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework</title>
+      <link>https://srihegde.github.io/publication/icassp2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/icassp2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
@@ -25,14 +33,6 @@
       <link>https://srihegde.github.io/publication/esann2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/publication/esann2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework</title>
-      <link>https://srihegde.github.io/publication/icassp2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/icassp2020/</guid>
       <description></description>
     </item>
     

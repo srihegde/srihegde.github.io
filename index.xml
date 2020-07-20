@@ -5,12 +5,20 @@
     <link>https://srihegde.github.io/</link>
       <atom:link href="https://srihegde.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Srinidhi Hegde</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
       <title>Srinidhi Hegde</title>
       <link>https://srihegde.github.io/</link>
     </image>
+    
+    <item>
+      <title>Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework</title>
+      <link>https://srihegde.github.io/publication/icassp2020/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/publication/icassp2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces</title>
@@ -25,14 +33,6 @@
       <link>https://srihegde.github.io/publication/esann2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/publication/esann2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework</title>
-      <link>https://srihegde.github.io/publication/icassp2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/publication/icassp2020/</guid>
       <description></description>
     </item>
     
@@ -137,6 +137,15 @@
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/project/visloc/</guid>
       <description>&lt;p&gt;Estimating GPS location of a single RGB image of outdoor environment by, firstly, GPS coordinate retrieval from image classification and secondly, fine tuning the location estimate using structure from motion and and position triangulation. This application was interfaced by an Android mobile application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sketch23D</title>
+      <link>https://srihegde.github.io/project/sketch23d/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/sketch23d/</guid>
+      <description>&lt;p&gt;We present an interactive sketching interface for quick and easy designing of freeform 3D models using OpenGL and CGAL libraries in C++. The mesh construction employs Shewchuk&amp;rsquo;s algorithm (which is based on Delaunay Triangulation). The freehand interaction and mesh construction is perfomed in real-time.&lt;/p&gt;
 </description>
     </item>
     

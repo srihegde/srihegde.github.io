@@ -5,12 +5,44 @@
     <link>https://srihegde.github.io/authors/</link>
       <atom:link href="https://srihegde.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://srihegde.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>R. Hebbalaguppe</title>
+      <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/r.-hebbalaguppe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Prasad</title>
+      <link>https://srihegde.github.io/authors/r.-prasad/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/r.-prasad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Hegde</title>
+      <link>https://srihegde.github.io/authors/s.-hegde/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/s.-hegde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Kumar</title>
+      <link>https://srihegde.github.io/authors/v.-kumar/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0530</pubDate>
+      <guid>https://srihegde.github.io/authors/v.-kumar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A. Kalkar</title>
@@ -29,34 +61,10 @@
     </item>
     
     <item>
-      <title>R. Hebbalaguppe</title>
-      <link>https://srihegde.github.io/authors/r.-hebbalaguppe/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/r.-hebbalaguppe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Hegde</title>
-      <link>https://srihegde.github.io/authors/s.-hegde/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/s.-hegde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A. Srinivasan</title>
       <link>https://srihegde.github.io/authors/a.-srinivasan/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/authors/a.-srinivasan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Prasad</title>
-      <link>https://srihegde.github.io/authors/r.-prasad/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/r.-prasad/</guid>
       <description></description>
     </item>
     
@@ -73,14 +81,6 @@
       <link>https://srihegde.github.io/authors/t.-dash/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
       <guid>https://srihegde.github.io/authors/t.-dash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>V. Kumar</title>
-      <link>https://srihegde.github.io/authors/v.-kumar/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://srihegde.github.io/authors/v.-kumar/</guid>
       <description></description>
     </item>
     
@@ -137,7 +137,7 @@
       <link>https://srihegde.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a researcher at Innovation Labs, Tata Consultancy Services. My research interests lie in the intersection of Computer Vision, Computer Graphics and Deep Learning with an application domain of Augmented and Virtual Reality. I completed my undergrad with Computer Science and Engineering major at Indraprastha Institute of Information Technology Delhi (IIIT-Delhi). I am passionate about problem solving in general. Apart from research, I indulge myself in music and travelling.&lt;/p&gt;
+      <description>&lt;p&gt;I am a researcher at Innovation Labs, Tata Consultancy Services. My research interests lie in the intersection of Computer Vision, Computer Graphics and Deep Learning with an application domain of Augmented and Virtual Reality. I completed my undergrad with Computer Science and Engineering major at Indraprastha Institute of Information Technology Delhi (IIIT-Delhi).&lt;/p&gt;
 
 &lt;p&gt;Longer version of my resume is available &lt;a href=&#34;docs/Srinidhi_Hegde_Resume.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>

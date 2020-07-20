@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Sketch23D</title>
+      <link>https://srihegde.github.io/project/sketch23d/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/sketch23d/</guid>
+      <description>&lt;p&gt;We present an interactive sketching interface for quick and easy designing of freeform 3D models using OpenGL and CGAL libraries in C++. The mesh construction employs Shewchuk&amp;rsquo;s algorithm (which is based on Delaunay Triangulation). The freehand interaction and mesh construction is perfomed in real-time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Virtual Campus Project</title>
       <link>https://srihegde.github.io/project/vcp/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
