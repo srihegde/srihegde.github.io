@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scheduling | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tag/scheduling/</link>
+      <atom:link href="https://srihegde.github.io/tag/scheduling/index.xml" rel="self" type="application/rss+xml" />
+    <description>scheduling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>scheduling</title>
+      <link>https://srihegde.github.io/tag/scheduling/</link>
+    </image>
+    
+    <item>
+      <title>Distributed Fault Tolerant Multi-Robot Area Coverage Under Limited Communication Ranges</title>
+      <link>https://srihegde.github.io/project/mas/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/mas/</guid>
+      <description>&lt;p&gt;This work develops a distributed fault tolerant area coverage algorithm, resulting in quick detection of the faulty agent under limited communication constraints and redistributes the area without conflicts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

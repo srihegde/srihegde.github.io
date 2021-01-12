@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tag/computer-vision/</link>
+      <atom:link href="https://srihegde.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>computer vision</title>
+      <link>https://srihegde.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Reverse VooDoo</title>
+      <link>https://srihegde.github.io/project/animation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/animation/</guid>
+      <description>&lt;p&gt;Automating the animation through learning and transferring motion cues from the real RGB-D videos to virtual 3D meshes. We use graph based structure correspondences to map the motion between the two 3D entities such as point cloud and 3D meshes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non Intrusive Overlay Placement in User Interfaces</title>
+      <link>https://srihegde.github.io/project/smartov/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/smartov/</guid>
+      <description>&lt;p&gt;A novel method for the placement of labels corresponding to objects of interest in images/videos/live feeds that is non-intrusive, relevant and temporally coherent. We employ different techniques ranging from search space optimization to visual saliency based neural network framework.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Draw In Air</title>
+      <link>https://srihegde.github.io/project/drawinair/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/drawinair/</guid>
+      <description>&lt;p&gt;Hand gesture classification through fingertip coordinate regression in a temporal model for touch-less interactions in AR. We highlight how a model, that is separately trained to regress fingertip in conjunction with a classifier trained on limited classification data, would perform better over end-to-end models. We also propose a dataset of 10 egocentric pointing gestures designed for AR applications for testing our model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust 3D Reconstruction of Indoor Scenes using Deep Learning</title>
+      <link>https://srihegde.github.io/project/btp/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/btp/</guid>
+      <description>&lt;p&gt;Employing CNNs for an end-to-end reconstruction of the indoor scenes through camera relocalization, through PoseNet, and depth estimation, through multi-scale fully convolutional network, from a single RGB image during inference and registering the 3D reconstructed patches through iterative closest point algorithm. A portion of the dataset collected during the project is also released.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision Based Outdoor Localization</title>
+      <link>https://srihegde.github.io/project/visloc/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/visloc/</guid>
+      <description>&lt;p&gt;Estimating GPS location of a single RGB image of outdoor environment by, firstly, GPS coordinate retrieval from image classification and secondly, fine tuning the location estimate using structure from motion and and position triangulation. This application was interfaced by an Android mobile application.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

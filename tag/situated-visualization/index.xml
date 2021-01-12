@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>situated visualization | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tag/situated-visualization/</link>
+      <atom:link href="https://srihegde.github.io/tag/situated-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>situated visualization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>situated visualization</title>
+      <link>https://srihegde.github.io/tag/situated-visualization/</link>
+    </image>
+    
+    <item>
+      <title>Non Intrusive Overlay Placement in User Interfaces</title>
+      <link>https://srihegde.github.io/project/smartov/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/smartov/</guid>
+      <description>&lt;p&gt;A novel method for the placement of labels corresponding to objects of interest in images/videos/live feeds that is non-intrusive, relevant and temporally coherent. We employ different techniques ranging from search space optimization to visual saliency based neural network framework.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

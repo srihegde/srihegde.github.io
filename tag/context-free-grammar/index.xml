@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Context-free Grammar | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tag/context-free-grammar/</link>
+      <atom:link href="https://srihegde.github.io/tag/context-free-grammar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Context-free Grammar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Context-free Grammar</title>
+      <link>https://srihegde.github.io/tag/context-free-grammar/</link>
+    </image>
+    
+    <item>
+      <title>Modelling Vegetation with L-Systems Using an Image</title>
+      <link>https://srihegde.github.io/project/lsys/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/lsys/</guid>
+      <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

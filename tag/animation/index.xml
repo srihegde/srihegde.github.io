@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animation | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tag/animation/</link>
+      <atom:link href="https://srihegde.github.io/tag/animation/index.xml" rel="self" type="application/rss+xml" />
+    <description>animation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>animation</title>
+      <link>https://srihegde.github.io/tag/animation/</link>
+    </image>
+    
+    <item>
+      <title>Reverse VooDoo</title>
+      <link>https://srihegde.github.io/project/animation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/animation/</guid>
+      <description>&lt;p&gt;Automating the animation through learning and transferring motion cues from the real RGB-D videos to virtual 3D meshes. We use graph based structure correspondences to map the motion between the two 3D entities such as point cloud and 3D meshes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

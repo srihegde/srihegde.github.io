@@ -1,49 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://srihegde.github.io/publication_types/1/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <loc></loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <loc>https://srihegde.github.io/publication-type/1/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srihegde.github.io/publication/esann2020/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://srihegde.github.io/publication_types/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://srihegde.github.io/publication/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/r.-hebbalaguppe/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <loc></loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/r.-prasad/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <loc></loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/s.-hegde/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
+    <loc></loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://srihegde.github.io/</loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2020-05-04T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/v.-kumar/</loc>
+    <loc></loc>
     <lastmod>2020-05-04T00:00:00+05:30</lastmod>
   </url>
   
@@ -53,12 +73,12 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/a.-kalkar/</loc>
+    <loc></loc>
     <lastmod>2020-03-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/j.-maurya/</loc>
+    <loc></loc>
     <lastmod>2020-03-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -68,42 +88,22 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/a.-srinivasan/</loc>
-    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/publication/esann2020/</loc>
-    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/s.-yalburgi/</loc>
-    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/authors/t.-dash/</loc>
-    <lastmod>2020-01-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/tags/animation/</loc>
+    <loc>https://srihegde.github.io/tag/animation/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/computer-graphics/</loc>
+    <loc>https://srihegde.github.io/tag/computer-graphics/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/computer-vision/</loc>
+    <loc>https://srihegde.github.io/tag/computer-vision/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/deep-learning/</loc>
+    <loc>https://srihegde.github.io/tag/deep-learning/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,17 +113,17 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/machine-learning/</loc>
+    <loc>https://srihegde.github.io/tag/machine-learning/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/neural-networks/</loc>
+    <loc>https://srihegde.github.io/tag/neural-networks/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/optimization/</loc>
+    <loc>https://srihegde.github.io/tag/optimization/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +143,12 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/variational-inference/</loc>
+    <loc>https://srihegde.github.io/tag/variational-inference/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/augmented-reality/</loc>
+    <loc>https://srihegde.github.io/tag/augmented-reality/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,12 +158,12 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/situated-visualization/</loc>
+    <loc>https://srihegde.github.io/tag/situated-visualization/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/visual-saliency/</loc>
+    <loc>https://srihegde.github.io/tag/visual-saliency/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,27 +173,27 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/g.-garg/</loc>
+    <loc></loc>
     <lastmod>2018-10-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/l.-vig/</loc>
+    <loc></loc>
     <lastmod>2018-10-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/n.-rakholia/</loc>
+    <loc></loc>
     <lastmod>2018-10-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/r.-perla/</loc>
+    <loc></loc>
     <lastmod>2018-10-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/v.-jain/</loc>
+    <loc></loc>
     <lastmod>2018-10-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -208,17 +208,17 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/hand-gestures/</loc>
+    <loc>https://srihegde.github.io/tag/hand-gestures/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/3d-reconstruction/</loc>
+    <loc>https://srihegde.github.io/tag/3d-reconstruction/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/camera-relocalization/</loc>
+    <loc>https://srihegde.github.io/tag/camera-relocalization/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,7 +228,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/e.-hassan/</loc>
+    <loc></loc>
     <lastmod>2016-06-01T00:00:00+05:30</lastmod>
   </url>
   
@@ -238,7 +238,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/area-coverage/</loc>
+    <loc>https://srihegde.github.io/tag/area-coverage/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,27 +248,27 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/multi-agent-systems/</loc>
+    <loc>https://srihegde.github.io/tag/multi-agent-systems/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/robotics/</loc>
+    <loc>https://srihegde.github.io/tag/robotics/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/scheduling/</loc>
+    <loc>https://srihegde.github.io/tag/scheduling/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/3d-modelling/</loc>
+    <loc>https://srihegde.github.io/tag/3d-modelling/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/context-free-grammar/</loc>
+    <loc>https://srihegde.github.io/tag/context-free-grammar/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -283,7 +283,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/immersive-rendering/</loc>
+    <loc>https://srihegde.github.io/tag/immersive-rendering/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,12 +298,12 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/virtual-reality/</loc>
+    <loc>https://srihegde.github.io/tag/virtual-reality/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/authors/admin/</loc>
+    <loc></loc>
   </url>
   
   <url>
@@ -323,7 +323,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/network-management/</loc>
+    <loc>https://srihegde.github.io/tag/network-management/</loc>
   </url>
   
   <url>
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://srihegde.github.io/tags/system-management/</loc>
+    <loc>https://srihegde.github.io/tag/system-management/</loc>
   </url>
   
 </urlset>

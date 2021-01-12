@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Management | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/tag/network-management/</link>
+      <atom:link href="https://srihegde.github.io/tag/network-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Management</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright>
+    <image>
+      <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Network Management</title>
+      <link>https://srihegde.github.io/tag/network-management/</link>
+    </image>
+    
+    <item>
+      <title>Network Traffic Generator and Packet Analyzer</title>
+      <link>https://srihegde.github.io/arxiv_projects/netpack/netpack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/arxiv_projects/netpack/netpack/</guid>
+      <description>&lt;p&gt;In this project we developed an IPv4 packet generator to simulate any network traffic the user wants. We interfaced this through a web application to provide user the provision for customizing source and destination IPs and ports,the protocol to be used and amount of that data each of the packets carry. We analyzed the most used protocols and identifying clogging points in network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
