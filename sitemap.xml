@@ -1,351 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
   <url>
     <loc>https://srihegde.github.io/publication-type/1/</loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://srihegde.github.io/publication/cvprw2021/</loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/publication_types/</loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/publication/</loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/publication/iccv2021/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/</loc>
-    <lastmod>2021-04-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/publication/cvprw2021/</loc>
+    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/publication/esann2020/</loc>
-    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-10-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/publication/icassp2020/</loc>
-    <lastmod>2020-05-04T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-03-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-03-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/publication/wacv2020/</loc>
-    <lastmod>2020-03-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/tag/animation/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/computer-graphics/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/computer-vision/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/deep-learning/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/nncomp/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/machine-learning/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/neural-networks/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/optimization/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/animation/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tags/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/variational-inference/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/augmented-reality/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/smartov/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/situated-visualization/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/visual-saliency/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/publication/eccv2018/</loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/publication/icip2018/</loc>
-    <lastmod>2018-10-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/project/drawinair/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/hand-gestures/</loc>
     <lastmod>2018-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/3d-reconstruction/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/camera-relocalization/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/btp/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2016-06-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/publication/ismar2016/</loc>
-    <lastmod>2016-06-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/tag/area-coverage/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/mas/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/multi-agent-systems/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/robotics/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/scheduling/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/3d-modelling/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/context-free-grammar/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/lsys/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/visloc/</loc>
     <lastmod>2016-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/immersive-rendering/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/sketch23d/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/project/vcp/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/virtual-reality/</loc>
     <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/arxiv_projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/arxiv_projects/vcloud/vcloud/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/network-management/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/arxiv_projects/netpack/netpack/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://srihegde.github.io/tag/system-management/</loc>
   </url>
-  
 </urlset>
