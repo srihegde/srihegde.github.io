@@ -22,16 +22,7 @@
     </item>
     
     <item>
-      <title>Reverse VooDoo</title>
-      <link>https://srihegde.github.io/project/animation/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/animation/</guid>
-      <description>&lt;p&gt;Automating the animation through learning and transferring motion cues from the real RGB-D videos to virtual 3D meshes. We use graph based structure correspondences to map the motion between the two 3D entities such as point cloud and 3D meshes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Non Intrusive Overlay Placement in User Interfaces</title>
+      <title>SmartOverlays</title>
       <link>https://srihegde.github.io/project/smartov/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/project/smartov/</guid>

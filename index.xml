@@ -63,15 +63,15 @@
     
     <item>
       <title>Reverse VooDoo</title>
-      <link>https://srihegde.github.io/project/animation/</link>
+      <link>https://srihegde.github.io/arxiv_projects/animation/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/animation/</guid>
+      <guid>https://srihegde.github.io/arxiv_projects/animation/</guid>
       <description>&lt;p&gt;Automating the animation through learning and transferring motion cues from the real RGB-D videos to virtual 3D meshes. We use graph based structure correspondences to map the motion between the two 3D entities such as point cloud and 3D meshes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Non Intrusive Overlay Placement in User Interfaces</title>
+      <title>SmartOverlays</title>
       <link>https://srihegde.github.io/project/smartov/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/project/smartov/</guid>
@@ -181,6 +181,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/news/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;18th Oct 2021&lt;/strong&gt;: My co-authored work &amp;ldquo;Rethinking Common Assumptions to Mitigate Racial Bias in Face Recognition Datasets&amp;rdquo;  won the best paper running up award at ICCV (HTCV &amp;lsquo;21)! Congrats to all the co-authors.&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;1st Aug 2021&lt;/strong&gt;: My co-authored work &amp;ldquo;Rethinking Common Assumptions to Mitigate Racial Bias in Face Recognition Datasets&amp;rdquo; accepted at ICCV (HTCV &amp;lsquo;21) as a oral paper. My first publication as a UMD student!&lt;/p&gt;
 &lt;/li&gt;
