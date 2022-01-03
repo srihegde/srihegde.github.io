@@ -5,7 +5,7 @@
     <link>https://srihegde.github.io/project/</link>
       <atom:link href="https://srihegde.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2021. Srinidhi Hegde</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2022. Srinidhi Hegde</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -63,15 +63,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://srihegde.github.io/project/lsys/</guid>
       <description>&lt;p&gt;Realistic models of vegetations are very essential piece of immersive virtual environment simulations. We develop a novel technique to convert a single captured image of a vegetation to a 3D model using L-Systems, a context-free grammar that we adapt to procedurally model vegetation. We also propose a pipeline that is semi-automated with manual interventions for accurate identification of tree branches and trunk.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vision Based Outdoor Localization</title>
-      <link>https://srihegde.github.io/project/visloc/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/project/visloc/</guid>
-      <description>&lt;p&gt;Estimating GPS location of a single RGB image of outdoor environment by, firstly, GPS coordinate retrieval from image classification and secondly, fine tuning the location estimate using structure from motion and and position triangulation. This application was interfaced by an Android mobile application.&lt;/p&gt;
 </description>
     </item>
     
