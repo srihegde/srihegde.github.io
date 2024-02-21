@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://srihegde.github.io/publication-type/1/</loc>
+    <loc>https://srihegde.github.io/publication-type/0/</loc>
     <lastmod>2023-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srihegde.github.io/publication/arxiv2023/</loc>
@@ -31,6 +31,9 @@
   </url><url>
     <loc>https://srihegde.github.io/post/bikesaga/</loc>
     <lastmod>2022-01-02T19:04:57-05:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/publication-type/1/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srihegde.github.io/publication/iccv2021/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>

@@ -5,20 +5,12 @@
     <link>https://srihegde.github.io/publication-type/1/</link>
       <atom:link href="https://srihegde.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2023. Srinidhi Hegde</copyright><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2024. Srinidhi Hegde</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://srihegde.github.io/publication-type/1/</link>
     </image>
-    
-    <item>
-      <title>Diffusion Models Beat GANs on Image Classification</title>
-      <link>https://srihegde.github.io/publication/arxiv2023/</link>
-      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/publication/arxiv2023/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Rethinking Common Assumptions to Mitigate Racial Bias in Face Recognition Datasets</title>
