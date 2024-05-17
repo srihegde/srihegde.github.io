@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Srinidhi Hegde</title>
-    <link>https://srihegde.github.io/post/</link>
-      <atom:link href="https://srihegde.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Extended Lab Notes | Srinidhi Hegde</title>
+    <link>https://srihegde.github.io/category/extended-lab-notes/</link>
+      <atom:link href="https://srihegde.github.io/category/extended-lab-notes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Extended Lab Notes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2024. Srinidhi Hegde</copyright><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://srihegde.github.io/post/</link>
+      <title>Extended Lab Notes</title>
+      <link>https://srihegde.github.io/category/extended-lab-notes/</link>
     </image>
     
     <item>
@@ -174,33 +174,6 @@ pip install tweepy python-dotenv
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/fHHDM2-If9g?si=l3kg71KNgZPy6xA4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube tutorial&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;With a little dedication and these handy steps, you&amp;rsquo;ll be well on your way to building your very own conference deadline tracking Twitter bot. No more scrambling to meet deadlines – your bot will be your hero!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Kaleidoscope</title>
-      <link>https://srihegde.github.io/post/art_album/</link>
-      <pubDate>Fri, 08 Jul 2022 19:04:57 -0500</pubDate>
-      <guid>https://srihegde.github.io/post/art_album/</guid>
-      <description>&lt;p&gt;In case you find art and geometry fascinating, &lt;a href=&#34;https://photos.app.goo.gl/TAywH8mpeh2vMkcYA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; is my collection of some snaps that held my gaze.&lt;/p&gt;
-&lt;p&gt;(Subject to Copyright © Srinidhi Hegde 2022.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The &#34;Bi&#34;-Cycle Saga</title>
-      <link>https://srihegde.github.io/post/bikesaga/</link>
-      <pubDate>Sun, 02 Jan 2022 19:04:57 -0500</pubDate>
-      <guid>https://srihegde.github.io/post/bikesaga/</guid>
-      <description>&lt;p&gt;Peering out of the window on a lazy Sunday afternoon I noticed something peculiar about the house across the street. A break of 3000 odd house numbers between my neighbor and my house didn’t add up to me. My neighborhood was a tiny enclosure amidst the crotched bustling highways of Maryland. How in the world could this small patch of land fit all these houses? Revelations and tragedy always strike with an element of surprise. But what is worse? Both struck me simultaneously as I realized that these unaccounted houses were the progeny of my amnesic memory which threw up an incorrect house number for my new residence. However, I don’t blame myself for this. This episode happened while I was settling in a foreign land having stuck to a single house number all my life.&lt;/p&gt;
-&lt;p&gt;But wait, why is this a tragedy, you ask? Well, this was the incorrect address that I typed in while ordering my brand new bicycle (or bike, as Americans call it) from Walmart. Regaining my composure, I first checked if this incorrect address actually existed, so that I can just collect it from there. But remember, it was a tiny neighborhood and I had directed my package to a house that was 3000 houses away and literally nowhere on earth. So I did the next natural thing that a panic-struck customer does. Calling the Walmart support center. A kind woman answered my call and as I poured out my vexation she looked up my order details. After several rounds of information exchange, we figured out that we could not cancel the order as it was an expensive purchase and it was on its way to delivery. “Can the delivery service at least deliver my bike to the updated location?”, I asked. After a doubtful pause and a quick consultation with her supervisor, she announced, “Yes, you can expect the package within 2 days”. And with that, I gave a sigh of relief. But little did I know how far I was from the relief!&lt;/p&gt;
-&lt;p&gt;Three days had passed and there was still no sign of my bike and my paranoia was ballooning. Being a faithful paranoid customer, I dialed up the support center again. This time I heard a different male voice from the other side. And this meant I had to revisit my predicament and also the solution which we had arrived at. After hearing my account, the support staff pondered for a while, verified the purchase records, and nonchalantly declared that my order was canceled and the refund was initiated. After hearing this unpleasant news, I hung up the call and immediately rushed to reorder the same bike. But the product had run out of stock! Having surveyed gazillion bikes online, gauging their tire size, off-road riding, price, … (replace with any filter you can think of, yes including gender), I had lost it all. With a heavy heart, I settled for the next best bike on my surveyed bike list. And I promptly ordered this bike online, of course, with the right address this time.&lt;/p&gt;
-&lt;p&gt;The next morning as I got ready to leave for my early morning classes in the university, I saw a huge tattered cardboard box blocking my house entrance. And what’s more? The box was addressed for me and the first thing that clicked me was the new bike that I ordered the day before. Boy was I impressed by Walmart’s supersonic delivery. Since I was getting late for my lecture, controlling my excitement, I shoved the hefty package inside the house and rushed for the classes. To be honest, I could not concentrate on the lecture that day. Biking to campus, swishing past the pedestrians, minting precious time for myself, and thoughts alike kept feeding the butterflies in my stomach. Yes, I know I didn’t care much about its features, for the bike was the cheapest and the most basic one, probably in the entire campus, that could just take me places. In short, I was fixated on the tattered box in my verandah.&lt;/p&gt;
-&lt;p&gt;As the class ended that day, it was probably one of the fastest walks (actually interspersed bursts of sprints) that I had to my home. I unlocked the front door of my house, rushed towards the box picking the nearby scissors. Snip! Snip! I effortlessly tore open the already tattered box. But what do I discover here? This was the bike that I had ordered before ordering my replacement bike that was inferior to my first bike. Did you read too many bikes? Don’t worry. Let us call the first bike (that was canceled) the red bike and the second bike (the replacement) the blue bike and I had received the red bike in the package. Well, this was a confusing situation for me. To aggravate the matters, I woke up to another package the next day, waiting for me. I carefully went over the same exercise of tearing-up-the-tattered-cardboard. What do I find here? Yes, you guessed it right. It was the blue bike (yikes! I have 2 bikes!). That was the moment I was lost somewhere amidst the confusion of joy, awe, anxiety(over returning and refund process), and, anger (directed at Walmart and partly to myself).&lt;/p&gt;
-&lt;p&gt;After several unsuccessful attempts to bring me to my senses, it took me three weeks to accept what had happened. I had neither received the refund for the red bike (which was anticipated in 8-10 business days) nor did I hear anything from Walmart till then. And I was the unexpected owner of two bikes and I was presented with the choice of red cycle versus the blue cycle. Although it sounds like the iconic red and blue pills of Keanu Reaves’ Matrix. But making a decision here was not that hard. I decided to keep the red one but what to do with the blue bike? Luckily for me, one of my housemates did not have a bike and it took me a little bit of convincing to sell my bike to him (how I marketed my product could be a topic for a separate blog post).&lt;/p&gt;
-&lt;p&gt;Now, if you are wondering if this was my “happily ever after” moment, then hold your horses. After a week, almost a month had passed since the refund for my red bike was initiated. It seems like the stars aligned well that day and I got my refund. So now I had two bikes one of which was free! Finally, I was relieved. But in my hindsight, I had a sinister feeling that something was not right. Moreover, one of my friends, after hearing my case, subtly prompted that this seems illegal and I could be up for some trouble.  Firing up my researcher instincts, I scoured through the internet to verify if I am the unlucky one. Well to my surprise, not one or two but hundreds of cases like this crop up every year due to logistical goof-ups. To make the matters worse, I also read that some state jurisdictions consider this as theft and a 6th-degree felony leading up to a year’s prison term! Instantly, my relief switched to paranoia. Do I have to return my bike? My favorite red bike? Or even worse, will I be incarcerated? To remedy this situation, I dialed the Walmart service center once again and apologetically explained myself to the support staff. After a momentary pause, which seemed like eons to me, I heard the three golden words - “Just keep it!”. No questions asked. Period. By this time, I was so used to my paranoia that I breathed a sigh of relief anyway. I finally owned a freebie bike legally. How cool is that?&lt;/p&gt;
-&lt;p&gt;Even now, just to give my creativity some rest, I recycle this story as icebreakers in conversations during parties, dinners, and even in classrooms! (What’s worse, I can refer to this blog from now on.) My audience generally compliments my honesty and some are even surprised that I called the support center to clarify. But little do they know that this should be credited to my guilt and paranoia. Looking back at this whole episode, I do and don’t blame Walmart for this episode. But I can’t complain either. On the flip side, I always cherish how I came so close to stealing a bike and getting away with it!&lt;/p&gt;
-&lt;p&gt;If you have made it so far, I thank you for your awesomeness.&lt;/p&gt;
 </description>
     </item>
     

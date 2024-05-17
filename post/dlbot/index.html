@@ -1,0 +1,1279 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  
+  
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Ever wished you could stay on top of conference deadlines without the constant calendar checking? Well, fret no more! Two missed deadlines later (yikes!), I knew I needed a better system for keeping track of them.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://srihegde.github.io/post/dlbot/">
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+
+  
+  
+  
+  <meta name="theme-color" content="hsl(63, 50%, 38%)">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.a540c8187939ba7906dd22dd7f5d1ec4.css">
+
+  
+
+
+
+
+  
+
+  
+
+
+  
+  
+
+  
+
+  
+  <link rel="manifest" href="/index.webmanifest">
+  
+
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://srihegde.github.io/post/dlbot/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Srinidhi Hegde">
+  <meta property="og:url" content="https://srihegde.github.io/post/dlbot/">
+  <meta property="og:title" content="Never Miss a Deadline Again | Srinidhi Hegde">
+  <meta property="og:description" content="Ever wished you could stay on top of conference deadlines without the constant calendar checking? Well, fret no more! Two missed deadlines later (yikes!), I knew I needed a better system for keeping track of them."><meta property="og:image" content="https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2024-05-12T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-05-12T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://srihegde.github.io/post/dlbot/"
+  },
+  "headline": "Never Miss a Deadline Again",
+  
+  "datePublished": "2024-05-12T00:00:00Z",
+  "dateModified": "2024-05-12T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Srinidhi Hegde"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Srinidhi Hegde",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Ever wished you could stay on top of conference deadlines without the constant calendar checking? Well, fret no more! Two missed deadlines later (yikes!), I knew I needed a better system for keeping track of them."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Never Miss a Deadline Again | Srinidhi Hegde</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper dark ">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.32775a89e1017a00e25f6ecd705a40a5.js"></script>
+
+  
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Srinidhi Hegde</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Srinidhi Hegde</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Miscellaneous</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Never Miss a Deadline Again</h1>
+
+  
+  <p class="page-subtitle">Track Conference Deadlines with a Twitter Bot</p>
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Srinidhi Hegde</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 12, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    9 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/extended-lab-notes/">Extended Lab Notes</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Ever wished you could stay on top of conference deadlines without the constant calendar checking? Well, fret no more! Two missed deadlines later (yikes!), I knew I needed a better system for keeping track of them. Enter automation!</p>
+<p>Today, in this article I&rsquo;ll talk about the world of Twitter bots and how to build our very own conference deadline tracker bot using Python. Although there are handful of bot accounts on Twitter keeping track of conference deadlines, none of them are customized to my conference requirements in computer graphics, 3D vision, and visualization. Hence we will build our little bot friend who will scour the depths of our (shallow) data and tweet out those all-important deadlines, keeping us informed and stress-free.  Let&rsquo;s get started!</p>
+<p><strong>Shameless plug:</strong></p>
+<p>🔥Please do me a favor and follow <a href="https://twitter.com/confclock" target="_blank" rel="noopener">@confclock</a> on twitter for daily updates on graphics, vision, and visualization conference deadlines🔥</p>
+<h3 id="prerequisites-what-youll-need">Prerequisites: What You&rsquo;ll Need</h3>
+<ul>
+<li>A free Twitter developer account (we&rsquo;ll need to chat with Twitter through code)</li>
+<li>A little Python know-how (don&rsquo;t worry, it&rsquo;s beginner-friendly!)</li>
+</ul>
+<h3 id="step-1-sign-up-and-get-access">Step 1: Sign Up and Get Access</h3>
+<p>First things first, head over to Twitter&rsquo;s developer portal and snag yourself a free developer account. You might need to write a quick blurb about why you want to use their fancy Twitter APIs (think of it as your bot&rsquo;s resume). Congratulations(if you got the access)! You can pull upto 1500 posts per month from Twitter if it is a free developer account.</p>
+<h3 id="step-2-project-time">Step 2: Project Time!</h3>
+<p>Once you&rsquo;re in, you&rsquo;ll see a new project with a random name. Give it a snazzy name that reflects your bot&rsquo;s purpose (For e.g., &ldquo;GraphViz DL&rdquo; for our case or something drippy - &ldquo;Deadline Slayer 3000&rdquo;). There are two things here a project and an app. You can have projects in your account. Also you can have multiple apps under a project and each app servers a different purpose.</p>
+<p><img src="im1.png" alt=""></p>
+<h3 id="step-3-building-your-bot-account">Step 3: Building Your Bot Account</h3>
+<p>Here comes the fun part: creating your bot account! You can refer to <a href="https://tweetdelete.net/resources/how-to-create-a-second-twitter-account-a-quick-start-guide/#How_To_Create_a_Second_Twitter_Account_With_Same_Email" target="_blank" rel="noopener">this nifty article</a> that talks about creating a new twitter account by &ldquo;hacking&rdquo; the twitter login checker. Unfortunately, if none of that works for you then you&rsquo;ll need a separate email address or phone number. So dust off an old email or grab a temporary phone number service.</p>
+<p><img src="im2.png" alt=""></p>
+<h3 id="step-4-talk-twitter-talk-authentication">Step 4: Talk Twitter Talk (Authentication!)</h3>
+<p>Now, we need to get our bot authorized to use Twitter&rsquo;s superpowers. This involves generating some special codes or tokens and saving them securely. Think of them as secret handshakes that unlock Twitter&rsquo;s features for your bot.</p>
+<p>For this go to the Settings -&gt; User Authentication Settings and update the app permissions, type of app, and the app info sections as per your requirements. I have used the following settings for my bot:</p>
+<p><img src="im3.png" alt="">
+<img src="im4.png" alt=""></p>
+<p>Now to generate and save the tokens, go to the Keys and Tokens tab in your Twitter developer account. You&rsquo;ll see five keys here: API key, API secret key, Bearer token, Access token, and Access token secret. These are the secret handshakes we need to talk to Twitter (which uses <a href="https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens" target="_blank" rel="noopener">3-legged OAuth Flow</a> behind the scenes).</p>
+<p><img src="im5.png" alt=""></p>
+<h3 id="step-5-python-power-writing-the-script">Step 5: Python Power! Writing the Script</h3>
+<p>This is where the Python magic happens! We&rsquo;ll write a script that uses a cool library called &ldquo;<a href="https://github.com/tweepy/tweepy/tree/v4.14.0" target="_blank" rel="noopener">tweepy</a>&rdquo; to chat with Twitter (with v2 endpoint APIs) and send out those deadline tweets. We&rsquo;ll also set up a system to read conference information from a file (like a CSV spreadsheet).</p>
+<p>Here&rsquo;s a simple script to get you started:</p>
+<pre><code class="language-python">import tweepy as tpy
+import os
+import csv
+from datetime import datetime
+from typing import Tuple, Dict
+from dotenv import load_dotenv
+
+# Authentication tokens
+root_path = './'
+load_dotenv(os.path.join(root_path, '.env'))
+
+consumer_key = os.getenv(&quot;CONSUMER_KEY&quot;)
+consumer_secret = os.getenv(&quot;CONSUMER_SECRET&quot;)
+access_token = os.getenv(&quot;ACCESS_TOKEN&quot;)
+access_token_secret = os.getenv(&quot;ACCESS_TOKEN_SECRET&quot;)
+
+# Authenticate to Twitter
+client = tpy.Client(consumer_key=consumer_key,
+                    consumer_secret=consumer_secret,
+                    access_token=access_token,
+                    access_token_secret=access_token_secret)
+
+# Tweet the message
+client.create_tweet(&quot;Hello, Twitter!&quot;)
+</code></pre>
+<p>Don&rsquo;t be a noob and store the keys in the script itself. Instead, use a <code>.env</code> file to store the keys (eg. COMSUMER_KEY=xxxx&hellip;xx, etc.) and load them into your script using <code>load_dotenv</code> module. This way, your keys stay secure and your code is modular.</p>
+<h3 id="step-6-tweeting-from-the-bot-account">Step 6: Tweeting from the Bot Account</h3>
+<p>Here&rsquo;s the tricky bit. We&rsquo;ve written a script that can tweet, but it&rsquo;s currently tweeting from your main account. We need to link it to your bot account so the deadlines get posted there. There are a couple of ways to do this, and we&rsquo;ll be using a method with a fancy name: OAuth 1.0a User Context.</p>
+<p>This involves a bit of back-and-forth between your code and Twitter to get the necessary permissions. Long story short, you&rsquo;ll need to generate an authentication link for your bot account to access the app&rsquo;s functionality (remember app is in your main account), click on the link, and access the secret tokens of your bot account to be used in the app to tweet on bot&rsquo;s behalf.  Don&rsquo;t worry, the instructions will guide you through it step-by-step.</p>
+<p>Firstly, we need to generate the an authentication link for the bot account to access the app&rsquo;s functionality. This can be done by using the following code:</p>
+<pre><code class="language-python">consumer_key = os.getenv(&quot;CONSUMER_KEY&quot;)
+consumer_secret = os.getenv(&quot;CONSUMER_SECRET&quot;)
+
+oauth1_user_handler = tpy.OAuth1UserHandler(
+  consumer_key=consumer_key, consumer_secret=consumer_secret,
+  callback='https://twitter.com')
+
+# The following link will ask you to authorize the app to use your account.
+# Authorize and then you will be redirected to twitter.com with an oauth_verifier 
+# field in the URL. Pass that in the prompt of the next cell.
+print(oauth1_user_handler.get_authorization_url(signin_with_twitter=True))
+</code></pre>
+<p>Here consumer key and secret are from the main account. This script spits the authentication link (which will look something like - <em><a href="https://twitter.com/home?oauth_token=%3csome_oauth_token%3e&amp;oauth_verifier=%3csome_oauth_verifier%3e" target="_blank" rel="noopener">https://twitter.com/home?oauth_token=&lt;some_oauth_token&gt;&amp;oauth_verifier=&lt;some_oauth_verifier&gt;</a></em>). Click on the link and authorize the app to use your account. You will be redirected to twitter.com with an <code>oauth_verifier</code> field in the URL. Copy that and pass it in the next cell below:</p>
+<pre><code class="language-python">verifier = input('Verifier: ')
+# Save the following tokens securely in .env file
+bot1_access_token, bot1_access_token_secret = oauth1_user_handler.get_access_token(verifier)
+
+# Authenticate to Twitter with the bot account
+client = tpy.Client(consumer_key=consumer_key,
+                    consumer_secret=consumer_secret,
+                    access_token=bot1_access_token,
+                    access_token_secret=bot1_access_token_secret)
+</code></pre>
+<p>Now you have the bot account&rsquo;s access tokens. Save them securely in the <code>.env</code> file. Now you can tweet from the bot account using tweepy&rsquo;s <code>create_tweet()</code> function. Also note that this approach requires too much manual intervention. You can automate this setup by creating some sort of web application that would parse the url and retrieve the oauth_verifier. But I did this because this is a one-time process and we are saving the required tokens of the bot account.</p>
+<h3 id="step-7-feeding-the-beast-conference-deadline-data">Step 7: Feeding the Beast (Conference Deadline Data)</h3>
+<p>Now that the tweeting part is figured out, we need to tell our bot what to tweet about! Create a file (like a CSV) containing conference names and deadlines. This will be the bot&rsquo;s treasure trove of information.</p>
+<p>I am storing my data in &lt;conference_name, conference_deadline&gt; format.The Python script will read this file, transform it into a tweet-worthy message, and send it out to the Twitterverse. Here&rsquo;s a simple example of how you can read the data from a CSV file:</p>
+<pre><code class="language-python">def extract_msg(msg_dict: Dict, ulimit: int=151) -&gt; Tuple[str, Dict]:
+    msg = ''
+    delkeys = []
+    for cname, cinfo in msg_dict.items():
+        if cinfo['days'] == 0:
+            msg += f&quot;{cname}: Today! Good Luck!\n&quot;
+        elif cinfo['days'] &gt; 0 and cinfo['days'] &lt; ulimit:
+            msg += f&quot;{cname}: {cinfo['days']} days\n&quot;
+        elif cinfo['days'] &lt; 0:
+            delkeys.append(cname)
+
+    for k in delkeys:
+        del msg_dict[k]
+
+    return msg, msg_dict
+
+def get_deadlines_msg(csvfile: str) -&gt; str:
+    with open(csvfile, newline='') as f:
+        reader = csv.reader(f)
+        deadlines = list(reader)
+
+    date_frmt = '%d-%m-%Y'
+    msg_dict = {}
+    for dl in deadlines:
+        cname = dl[0].strip()
+        date = dl[1].strip()
+        today = datetime.now().strftime(date_frmt)
+        days_left = datetime.strptime(date, date_frmt) - datetime.strptime(today, date_frmt)
+        msg_dict[cname] = {'date': date, 'days':days_left.days}
+
+    msg_dict = {k: v for k, v in sorted(msg_dict.items(), key=lambda item: item[1]['days'])}
+    msg, msg_dict = extract_msg(msg_dict)
+
+    # Remove the passed deadline from the csv file
+    with open(csvfile, 'w', newline='') as f:
+        writer = csv.writer(f)
+        for cname, days_left in msg_dict.items():
+            date = days_left['date']
+            writer.writerow([cname, date])
+
+    return msg
+
+csvfile = 'deadlines.csv'
+msg = get_deadlines_msg(csvfile)
+</code></pre>
+<h3 id="step-8-scheduling-the-tweets">Step 8: Scheduling the Tweets</h3>
+<p>We don&rsquo;t want to babysit our bot, so let&rsquo;s schedule it to tweet automatically every day. We&rsquo;ll be using a cloud platform called <a href="https://www.pythonanywhere.com" target="_blank" rel="noopener">PythonAnywhere</a> to host our Python application. They offer a free plan that&rsquo;s perfect for this.</p>
+<p>Firstly, create an account on this site and setup the environment on the server. Free account gives you enough space and compute time to run this app couple of times a day. For this we will compile all the above code into a python script, called <code>app.py</code>, and upload it to the PythonAnywhere server along with <code>.env</code> and our CSV data file.</p>
+<p>Next, create a virtual environment and install the required packages. You can do this by running the following commands in the bash console on the server:</p>
+<pre><code class="language-bash">mkvirtualenv dlbot --python=/usr/bin/python3.10 --seeder=pip
+workon dlbot
+pip install tweepy python-dotenv
+</code></pre>
+<p>Now, let&rsquo;s schedule a task in the Tasks tab that runs our <code>app.py</code> script exactly once at a fixed time of the day. You can do this by adding a new task with the following task command:</p>
+<pre><code class="language-bash">workon dlbot; python /&lt;your path to project folder&gt;/app.py
+</code></pre>
+<p>That&rsquo;s it - your bot is now ready to tweet out those all-important deadlines every day! You can check the logs to see if the tweets are being sent out as expected. If you want to test the bot, you can run the script manually by setting a close enough time to run the script.</p>
+<h3 id="step-9--bonus-level----automating-deadline-gathering">Step 9: 🔥🔥 Bonus Level 🔥🔥 - Automating Deadline Gathering</h3>
+<p>(For the super-ambitious coders) Here is a challenge! Imagine a world where your bot finds conference deadlines all by itself! We can explore using a fancy Large Language Models (LLMs) to scrape conference websites and extract deadlines.  This is some next-level bot building!</p>
+<p>Hint: You can use tools like Tavily (<a href="https://tavily.com" target="_blank" rel="noopener">https://tavily.com</a>) which run over ChatGPT-4.0 APIs to produce detailed research reports given a task. You can prompt engineer the model to extract deadlines from the conference websites effectively.</p>
+<p>If you made it till here, you are awesome! Now check out (and follow 🙏🙏🙏) <a href="https://twitter.com/confclock" target="_blank" rel="noopener">@confclock</a> on twitter and see what it can do.</p>
+<p>Peace out! 🤖🚀</p>
+<h3 id="resources">Resources:</h3>
+<p>Now if you are thinking about where to start, do not worry. I have got you covered! Here is the link to my <a href="">GitHub repository</a> where you can find all the code used in this blog (and more).</p>
+<p>The world of Twitter bots can be a bit overwhelming, so here are some helpful resources to guide you on your journey:</p>
+<ul>
+<li><a href="https://developer.twitter.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2" target="_blank" rel="noopener">While a tad outdated, the core concepts are still useful</a></li>
+<li><a href="https://devcommunity.x.com/t/yesterday-everything-was-fine-now-you-currently-have-access-to-a-subset-of-twitter-api-v2-endpoints-and-limited-v1-1-endpoints-e-g-media-post-oauth-only/196198/29" target="_blank" rel="noopener">Useful discussion 1</a></li>
+<li><a href="https://devcommunity.x.com/t/using-one-twitter-developer-account-for-multiple-bot-accounts/204068" target="_blank" rel="noopener">Useful discussion 2</a></li>
+<li><a href="https://help.pythonanywhere.com/pages/ScheduledTasks/" target="_blank" rel="noopener">Schedule tasks on PythonAnywhere</a></li>
+<li><a href="https://youtu.be/fHHDM2-If9g?si=l3kg71KNgZPy6xA4" target="_blank" rel="noopener">Youtube tutorial</a></li>
+</ul>
+<p>With a little dedication and these handy steps, you&rsquo;ll be well on your way to building your very own conference deadline tracking Twitter bot. No more scrambling to meet deadlines – your bot will be your hero!</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://srihegde.github.io/post/dlbot/&amp;text=Never%20Miss%20a%20Deadline%20Again" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://srihegde.github.io/post/dlbot/&amp;t=Never%20Miss%20a%20Deadline%20Again" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Never%20Miss%20a%20Deadline%20Again&amp;body=https://srihegde.github.io/post/dlbot/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://srihegde.github.io/post/dlbot/&amp;title=Never%20Miss%20a%20Deadline%20Again" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Never%20Miss%20a%20Deadline%20Again%20https://srihegde.github.io/post/dlbot/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://srihegde.github.io/post/dlbot/&amp;title=Never%20Miss%20a%20Deadline%20Again" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/art_album/">Kaleidoscope</a></li>
+      
+      <li><a href="/post/bikesaga/">The &#34;Bi&#34;-Cycle Saga</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    Some rights reserved ©2024. Srinidhi Hegde
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+    Published with
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'event' : "Events",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/js/wowchemy.min.9408e29e0fdb518898519086e8229fcb.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

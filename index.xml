@@ -5,7 +5,7 @@
     <link>https://srihegde.github.io/</link>
       <atom:link href="https://srihegde.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Srinidhi Hegde</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2024. Srinidhi Hegde</copyright><lastBuildDate>Mon, 17 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2024. Srinidhi Hegde</copyright><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Srinidhi Hegde</title>
@@ -13,11 +13,168 @@
     </image>
     
     <item>
-      <title>Diffusion Models Beat GANs on Image Classification</title>
-      <link>https://srihegde.github.io/publication/arxiv2023/</link>
-      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://srihegde.github.io/publication/arxiv2023/</guid>
-      <description></description>
+      <title>Never Miss a Deadline Again</title>
+      <link>https://srihegde.github.io/post/dlbot/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/post/dlbot/</guid>
+      <description>&lt;p&gt;Ever wished you could stay on top of conference deadlines without the constant calendar checking? Well, fret no more! Two missed deadlines later (yikes!), I knew I needed a better system for keeping track of them. Enter automation!&lt;/p&gt;
+&lt;p&gt;Today, in this article I&amp;rsquo;ll talk about the world of Twitter bots and how to build our very own conference deadline tracker bot using Python. Although there are handful of bot accounts on Twitter keeping track of conference deadlines, none of them are customized to my conference requirements in computer graphics, 3D vision, and visualization. Hence we will build our little bot friend who will scour the depths of our (shallow) data and tweet out those all-important deadlines, keeping us informed and stress-free.  Let&amp;rsquo;s get started!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Shameless plug:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🔥Please do me a favor and follow &lt;a href=&#34;https://twitter.com/confclock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@confclock&lt;/a&gt; on twitter for daily updates on graphics, vision, and visualization conference deadlines🔥&lt;/p&gt;
+&lt;h3 id=&#34;prerequisites-what-youll-need&#34;&gt;Prerequisites: What You&amp;rsquo;ll Need&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A free Twitter developer account (we&amp;rsquo;ll need to chat with Twitter through code)&lt;/li&gt;
+&lt;li&gt;A little Python know-how (don&amp;rsquo;t worry, it&amp;rsquo;s beginner-friendly!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;step-1-sign-up-and-get-access&#34;&gt;Step 1: Sign Up and Get Access&lt;/h3&gt;
+&lt;p&gt;First things first, head over to Twitter&amp;rsquo;s developer portal and snag yourself a free developer account. You might need to write a quick blurb about why you want to use their fancy Twitter APIs (think of it as your bot&amp;rsquo;s resume). Congratulations(if you got the access)! You can pull upto 1500 posts per month from Twitter if it is a free developer account.&lt;/p&gt;
+&lt;h3 id=&#34;step-2-project-time&#34;&gt;Step 2: Project Time!&lt;/h3&gt;
+&lt;p&gt;Once you&amp;rsquo;re in, you&amp;rsquo;ll see a new project with a random name. Give it a snazzy name that reflects your bot&amp;rsquo;s purpose (For e.g., &amp;ldquo;GraphViz DL&amp;rdquo; for our case or something drippy - &amp;ldquo;Deadline Slayer 3000&amp;rdquo;). There are two things here a project and an app. You can have projects in your account. Also you can have multiple apps under a project and each app servers a different purpose.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;im1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-3-building-your-bot-account&#34;&gt;Step 3: Building Your Bot Account&lt;/h3&gt;
+&lt;p&gt;Here comes the fun part: creating your bot account! You can refer to &lt;a href=&#34;https://tweetdelete.net/resources/how-to-create-a-second-twitter-account-a-quick-start-guide/#How_To_Create_a_Second_Twitter_Account_With_Same_Email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this nifty article&lt;/a&gt; that talks about creating a new twitter account by &amp;ldquo;hacking&amp;rdquo; the twitter login checker. Unfortunately, if none of that works for you then you&amp;rsquo;ll need a separate email address or phone number. So dust off an old email or grab a temporary phone number service.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;im2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-4-talk-twitter-talk-authentication&#34;&gt;Step 4: Talk Twitter Talk (Authentication!)&lt;/h3&gt;
+&lt;p&gt;Now, we need to get our bot authorized to use Twitter&amp;rsquo;s superpowers. This involves generating some special codes or tokens and saving them securely. Think of them as secret handshakes that unlock Twitter&amp;rsquo;s features for your bot.&lt;/p&gt;
+&lt;p&gt;For this go to the Settings -&amp;gt; User Authentication Settings and update the app permissions, type of app, and the app info sections as per your requirements. I have used the following settings for my bot:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;im3.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;im4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now to generate and save the tokens, go to the Keys and Tokens tab in your Twitter developer account. You&amp;rsquo;ll see five keys here: API key, API secret key, Bearer token, Access token, and Access token secret. These are the secret handshakes we need to talk to Twitter (which uses &lt;a href=&#34;https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3-legged OAuth Flow&lt;/a&gt; behind the scenes).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;im5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;step-5-python-power-writing-the-script&#34;&gt;Step 5: Python Power! Writing the Script&lt;/h3&gt;
+&lt;p&gt;This is where the Python magic happens! We&amp;rsquo;ll write a script that uses a cool library called &amp;ldquo;&lt;a href=&#34;https://github.com/tweepy/tweepy/tree/v4.14.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweepy&lt;/a&gt;&amp;rdquo; to chat with Twitter (with v2 endpoint APIs) and send out those deadline tweets. We&amp;rsquo;ll also set up a system to read conference information from a file (like a CSV spreadsheet).&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a simple script to get you started:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import tweepy as tpy
+import os
+import csv
+from datetime import datetime
+from typing import Tuple, Dict
+from dotenv import load_dotenv
+
+# Authentication tokens
+root_path = &#39;./&#39;
+load_dotenv(os.path.join(root_path, &#39;.env&#39;))
+
+consumer_key = os.getenv(&amp;quot;CONSUMER_KEY&amp;quot;)
+consumer_secret = os.getenv(&amp;quot;CONSUMER_SECRET&amp;quot;)
+access_token = os.getenv(&amp;quot;ACCESS_TOKEN&amp;quot;)
+access_token_secret = os.getenv(&amp;quot;ACCESS_TOKEN_SECRET&amp;quot;)
+
+# Authenticate to Twitter
+client = tpy.Client(consumer_key=consumer_key,
+                    consumer_secret=consumer_secret,
+                    access_token=access_token,
+                    access_token_secret=access_token_secret)
+
+# Tweet the message
+client.create_tweet(&amp;quot;Hello, Twitter!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Don&amp;rsquo;t be a noob and store the keys in the script itself. Instead, use a &lt;code&gt;.env&lt;/code&gt; file to store the keys (eg. COMSUMER_KEY=xxxx&amp;hellip;xx, etc.) and load them into your script using &lt;code&gt;load_dotenv&lt;/code&gt; module. This way, your keys stay secure and your code is modular.&lt;/p&gt;
+&lt;h3 id=&#34;step-6-tweeting-from-the-bot-account&#34;&gt;Step 6: Tweeting from the Bot Account&lt;/h3&gt;
+&lt;p&gt;Here&amp;rsquo;s the tricky bit. We&amp;rsquo;ve written a script that can tweet, but it&amp;rsquo;s currently tweeting from your main account. We need to link it to your bot account so the deadlines get posted there. There are a couple of ways to do this, and we&amp;rsquo;ll be using a method with a fancy name: OAuth 1.0a User Context.&lt;/p&gt;
+&lt;p&gt;This involves a bit of back-and-forth between your code and Twitter to get the necessary permissions. Long story short, you&amp;rsquo;ll need to generate an authentication link for your bot account to access the app&amp;rsquo;s functionality (remember app is in your main account), click on the link, and access the secret tokens of your bot account to be used in the app to tweet on bot&amp;rsquo;s behalf.  Don&amp;rsquo;t worry, the instructions will guide you through it step-by-step.&lt;/p&gt;
+&lt;p&gt;Firstly, we need to generate the an authentication link for the bot account to access the app&amp;rsquo;s functionality. This can be done by using the following code:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;consumer_key = os.getenv(&amp;quot;CONSUMER_KEY&amp;quot;)
+consumer_secret = os.getenv(&amp;quot;CONSUMER_SECRET&amp;quot;)
+
+oauth1_user_handler = tpy.OAuth1UserHandler(
+  consumer_key=consumer_key, consumer_secret=consumer_secret,
+  callback=&#39;https://twitter.com&#39;)
+
+# The following link will ask you to authorize the app to use your account.
+# Authorize and then you will be redirected to twitter.com with an oauth_verifier 
+# field in the URL. Pass that in the prompt of the next cell.
+print(oauth1_user_handler.get_authorization_url(signin_with_twitter=True))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here consumer key and secret are from the main account. This script spits the authentication link (which will look something like - &lt;em&gt;&lt;a href=&#34;https://twitter.com/home?oauth_token=%3csome_oauth_token%3e&amp;amp;oauth_verifier=%3csome_oauth_verifier%3e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/home?oauth_token=&amp;lt;some_oauth_token&amp;gt;&amp;amp;oauth_verifier=&amp;lt;some_oauth_verifier&amp;gt;&lt;/a&gt;&lt;/em&gt;). Click on the link and authorize the app to use your account. You will be redirected to twitter.com with an &lt;code&gt;oauth_verifier&lt;/code&gt; field in the URL. Copy that and pass it in the next cell below:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;verifier = input(&#39;Verifier: &#39;)
+# Save the following tokens securely in .env file
+bot1_access_token, bot1_access_token_secret = oauth1_user_handler.get_access_token(verifier)
+
+# Authenticate to Twitter with the bot account
+client = tpy.Client(consumer_key=consumer_key,
+                    consumer_secret=consumer_secret,
+                    access_token=bot1_access_token,
+                    access_token_secret=bot1_access_token_secret)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now you have the bot account&amp;rsquo;s access tokens. Save them securely in the &lt;code&gt;.env&lt;/code&gt; file. Now you can tweet from the bot account using tweepy&amp;rsquo;s &lt;code&gt;create_tweet()&lt;/code&gt; function. Also note that this approach requires too much manual intervention. You can automate this setup by creating some sort of web application that would parse the url and retrieve the oauth_verifier. But I did this because this is a one-time process and we are saving the required tokens of the bot account.&lt;/p&gt;
+&lt;h3 id=&#34;step-7-feeding-the-beast-conference-deadline-data&#34;&gt;Step 7: Feeding the Beast (Conference Deadline Data)&lt;/h3&gt;
+&lt;p&gt;Now that the tweeting part is figured out, we need to tell our bot what to tweet about! Create a file (like a CSV) containing conference names and deadlines. This will be the bot&amp;rsquo;s treasure trove of information.&lt;/p&gt;
+&lt;p&gt;I am storing my data in &amp;lt;conference_name, conference_deadline&amp;gt; format.The Python script will read this file, transform it into a tweet-worthy message, and send it out to the Twitterverse. Here&amp;rsquo;s a simple example of how you can read the data from a CSV file:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;def extract_msg(msg_dict: Dict, ulimit: int=151) -&amp;gt; Tuple[str, Dict]:
+    msg = &#39;&#39;
+    delkeys = []
+    for cname, cinfo in msg_dict.items():
+        if cinfo[&#39;days&#39;] == 0:
+            msg += f&amp;quot;{cname}: Today! Good Luck!\n&amp;quot;
+        elif cinfo[&#39;days&#39;] &amp;gt; 0 and cinfo[&#39;days&#39;] &amp;lt; ulimit:
+            msg += f&amp;quot;{cname}: {cinfo[&#39;days&#39;]} days\n&amp;quot;
+        elif cinfo[&#39;days&#39;] &amp;lt; 0:
+            delkeys.append(cname)
+
+    for k in delkeys:
+        del msg_dict[k]
+
+    return msg, msg_dict
+
+def get_deadlines_msg(csvfile: str) -&amp;gt; str:
+    with open(csvfile, newline=&#39;&#39;) as f:
+        reader = csv.reader(f)
+        deadlines = list(reader)
+
+    date_frmt = &#39;%d-%m-%Y&#39;
+    msg_dict = {}
+    for dl in deadlines:
+        cname = dl[0].strip()
+        date = dl[1].strip()
+        today = datetime.now().strftime(date_frmt)
+        days_left = datetime.strptime(date, date_frmt) - datetime.strptime(today, date_frmt)
+        msg_dict[cname] = {&#39;date&#39;: date, &#39;days&#39;:days_left.days}
+
+    msg_dict = {k: v for k, v in sorted(msg_dict.items(), key=lambda item: item[1][&#39;days&#39;])}
+    msg, msg_dict = extract_msg(msg_dict)
+
+    # Remove the passed deadline from the csv file
+    with open(csvfile, &#39;w&#39;, newline=&#39;&#39;) as f:
+        writer = csv.writer(f)
+        for cname, days_left in msg_dict.items():
+            date = days_left[&#39;date&#39;]
+            writer.writerow([cname, date])
+
+    return msg
+
+csvfile = &#39;deadlines.csv&#39;
+msg = get_deadlines_msg(csvfile)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;step-8-scheduling-the-tweets&#34;&gt;Step 8: Scheduling the Tweets&lt;/h3&gt;
+&lt;p&gt;We don&amp;rsquo;t want to babysit our bot, so let&amp;rsquo;s schedule it to tweet automatically every day. We&amp;rsquo;ll be using a cloud platform called &lt;a href=&#34;https://www.pythonanywhere.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PythonAnywhere&lt;/a&gt; to host our Python application. They offer a free plan that&amp;rsquo;s perfect for this.&lt;/p&gt;
+&lt;p&gt;Firstly, create an account on this site and setup the environment on the server. Free account gives you enough space and compute time to run this app couple of times a day. For this we will compile all the above code into a python script, called &lt;code&gt;app.py&lt;/code&gt;, and upload it to the PythonAnywhere server along with &lt;code&gt;.env&lt;/code&gt; and our CSV data file.&lt;/p&gt;
+&lt;p&gt;Next, create a virtual environment and install the required packages. You can do this by running the following commands in the bash console on the server:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkvirtualenv dlbot --python=/usr/bin/python3.10 --seeder=pip
+workon dlbot
+pip install tweepy python-dotenv
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now, let&amp;rsquo;s schedule a task in the Tasks tab that runs our &lt;code&gt;app.py&lt;/code&gt; script exactly once at a fixed time of the day. You can do this by adding a new task with the following task command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;workon dlbot; python /&amp;lt;your path to project folder&amp;gt;/app.py
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;That&amp;rsquo;s it - your bot is now ready to tweet out those all-important deadlines every day! You can check the logs to see if the tweets are being sent out as expected. If you want to test the bot, you can run the script manually by setting a close enough time to run the script.&lt;/p&gt;
+&lt;h3 id=&#34;step-9--bonus-level----automating-deadline-gathering&#34;&gt;Step 9: 🔥🔥 Bonus Level 🔥🔥 - Automating Deadline Gathering&lt;/h3&gt;
+&lt;p&gt;(For the super-ambitious coders) Here is a challenge! Imagine a world where your bot finds conference deadlines all by itself! We can explore using a fancy Large Language Models (LLMs) to scrape conference websites and extract deadlines.  This is some next-level bot building!&lt;/p&gt;
+&lt;p&gt;Hint: You can use tools like Tavily (&lt;a href=&#34;https://tavily.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tavily.com&lt;/a&gt;) which run over ChatGPT-4.0 APIs to produce detailed research reports given a task. You can prompt engineer the model to extract deadlines from the conference websites effectively.&lt;/p&gt;
+&lt;p&gt;If you made it till here, you are awesome! Now check out (and follow 🙏🙏🙏) &lt;a href=&#34;https://twitter.com/confclock&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@confclock&lt;/a&gt; on twitter and see what it can do.&lt;/p&gt;
+&lt;p&gt;Peace out! 🤖🚀&lt;/p&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources:&lt;/h3&gt;
+&lt;p&gt;Now if you are thinking about where to start, do not worry. I have got you covered! Here is the link to my &lt;a href=&#34;&#34;&gt;GitHub repository&lt;/a&gt; where you can find all the code used in this blog (and more).&lt;/p&gt;
+&lt;p&gt;The world of Twitter bots can be a bit overwhelming, so here are some helpful resources to guide you on your journey:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.twitter.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;While a tad outdated, the core concepts are still useful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devcommunity.x.com/t/yesterday-everything-was-fine-now-you-currently-have-access-to-a-subset-of-twitter-api-v2-endpoints-and-limited-v1-1-endpoints-e-g-media-post-oauth-only/196198/29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Useful discussion 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devcommunity.x.com/t/using-one-twitter-developer-account-for-multiple-bot-accounts/204068&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Useful discussion 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.pythonanywhere.com/pages/ScheduledTasks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schedule tasks on PythonAnywhere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/fHHDM2-If9g?si=l3kg71KNgZPy6xA4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With a little dedication and these handy steps, you&amp;rsquo;ll be well on your way to building your very own conference deadline tracking Twitter bot. No more scrambling to meet deadlines – your bot will be your hero!&lt;/p&gt;
+</description>
     </item>
     
     <item>
