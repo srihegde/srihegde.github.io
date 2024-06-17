@@ -5,12 +5,22 @@
     <link>https://srihegde.github.io/</link>
       <atom:link href="https://srihegde.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Srinidhi Hegde</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2024. Srinidhi Hegde</copyright><lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Some rights reserved ©2024. Srinidhi Hegde</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://srihegde.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Srinidhi Hegde</title>
       <link>https://srihegde.github.io/</link>
     </image>
+    
+    <item>
+      <title>NARViS</title>
+      <link>https://srihegde.github.io/project/narvis/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://srihegde.github.io/project/narvis/</guid>
+      <description>&lt;p&gt;Exploring scientific datasets with billions of samples in real-time visualization presents a challenge - balancing high-fidelity rendering with speed. This work introduces a novel method that uses the neural deferred rendering framework to visualize large-scale scientific point cloud data. Our approach augments a real-time high-quality point-based rendering pipeline with neural post-processing, enabling real-time manipulation of the scene elements. The modularity of the proposed framework allows customization of different stages of the rendering pipeline making it applicable to various post-processing effects. Furthermore, we also show that we can achieve a high-quality visualization with the desired post-processing effects without using the full resolution of the original point cloud. Our method prioritizes speed and scalability, making it ideal for interactive exploration and analysis of large-scale scientific datasets. Furthermore, we showcase our approach’s effectiveness on various complex scientific datasets, demonstrating real-time rendering with user-defined styles and improved visual clarity, ultimately fostering a more efficient and engaging scientific visualization experience.&lt;/p&gt;
+&lt;p&gt;Pre-print and code to be released soon. Stay tuned!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Never Miss a Deadline Again</title>

@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://srihegde.github.io/tag/deep-learning/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/project/narvis/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/tag/neural-networks/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/tag/neural-rendering/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/project/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/tags/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://srihegde.github.io/tag/visualization/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://srihegde.github.io/categories/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +36,6 @@
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srihegde.github.io/post/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srihegde.github.io/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srihegde.github.io/post/art_album/</loc>
@@ -62,28 +83,16 @@
     <loc>https://srihegde.github.io/tag/computer-vision/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srihegde.github.io/tag/deep-learning/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://srihegde.github.io/project/nncomp/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srihegde.github.io/tag/machine-learning/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srihegde.github.io/tag/neural-networks/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://srihegde.github.io/tag/optimization/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://srihegde.github.io/project/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://srihegde.github.io/arxiv_projects/animation/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://srihegde.github.io/tags/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://srihegde.github.io/tag/variational-inference/</loc>
