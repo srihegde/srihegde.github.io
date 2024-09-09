@@ -33,9 +33,14 @@ description: >-
   <br>
 
   Previously, I was a researcher at Innovation Labs, Tata Consultancy Services collaborating with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://in.linkedin.com/in/ramya-hebbalaguppe-620b272). I completed my undergrad in Computer Science and Engineering at Indraprastha Institute of Information Technology Delhi (IIITD). At IIITD, I was fortunate to work with [Prof. Saket Anand](http://faculty.iiitd.ac.in/~anands/) and [Prof. Ojaswa Sharma](http://faculty.iiitd.ac.in/~ojaswa/) on interesting problems of scene reconstruction and procedural modelling.
+  <br>
+  <br>
+
+  Here is my [CV](/resources/Srinidhi_Hegde_CV.pdf) (as of 10-Sep-2024).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srihegde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: 
+resume: 
 
 # Navbar items
 navbar_items:
@@ -43,8 +48,6 @@ navbar_items:
     url: /
   - name: Projects
     url: /projects/
-  - name: CV
-    url: /cv/
   - name: Misc
     url: /misc/
 

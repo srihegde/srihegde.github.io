@@ -24,6 +24,8 @@
   arxiv: 2109.03229
   # image: race_bias_teaser.png
   image: raceface.png
+  awards:
+    - Runner-up, Best Paper Award
   authors:
     - mgwilliam
     - srihegde

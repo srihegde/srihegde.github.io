@@ -9,7 +9,8 @@ TODO
 - [X] Add contact+socials in the home page
 - [X] Publications - "featured" vs all
 - [ ] Update navbar sections
-  - [ ] Resume - (Long form CV as of DDMMYYY) pdf that opens in a new tab.
+  - [X] CV - (Long form CV as of DDMMYYY) pdf that opens in a new tab.
+  - [ ] CV - Make the CV shorter removing the details
   - [ ] Projects
   - [ ] Misc - Photos, Writings, Tech blogs
 - [ ] Edit content:
@@ -17,6 +18,6 @@ TODO
   - [X] Add images to all publications
   - [X] Add links to publications resources
   - [X] Add NARVis preprint
-  - [ ] Create links to authors
+  - [X] Create links to authors
 - [ ] Cleanup the comments
 - [ ] Light/Dark mode
