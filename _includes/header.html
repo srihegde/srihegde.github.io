@@ -1,0 +1,32 @@
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>{{ site.name }}</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+  
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+  
+      gtag('js', new Date());
+  
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+  
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@700&family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link href="{{ '/css/fontawesome.all.min.css' | relative_url }}" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link href="{{ '/css/bulma.min.css' | relative_url }}" rel="stylesheet">
+    <link href="{{ '/css/index.css' | relative_url }}" rel="stylesheet">
+  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script defer src="{{ '/js/fontawesome.all.min.js' | relative_url }}"></script>
+    <script src="{{ '/js/index.js' | relative_url }}"></script>
+</head>

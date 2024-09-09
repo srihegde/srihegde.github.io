@@ -1,0 +1,23 @@
+<header>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-menu">
+        {% if include.banner %}
+          <div class="title navbar-banner">
+            <a href="{{ site.url }}">
+              {{ site.name }}
+            </a>
+          </div>
+        {%endif%}
+        <div class="navbar-end">
+          {% for item in site.navbar_items %}
+            {% if include.home and item.name == "Home" %}
+              {% continue %}
+            {% endif %}
+            <a class="navbar-item" href="{{ item.url }}">
+              {{ item.name }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+    </nav>
+</header>

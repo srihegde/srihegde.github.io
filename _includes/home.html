@@ -1,0 +1,145 @@
+<section class="hero">
+    <div class="hero-body container is-max-desktop">
+      <div class="columns is-7-fullhd">
+
+        <div class="column is-4">
+          <div class="portrait">
+            <img src="{{ '/images/avatar.jpg' | relative_url }}" />
+          </div>
+        </div>
+
+        <div class="column">
+          <h1 class="title">
+            <b>{{ site.name }}</b>
+          </h1>
+          <h2 class="subtitle">
+            <b>{{ site.position }}</b><br>
+            <b>{{ site.organization }}</b>
+          </h2>
+          <div class="content has-text-justified">
+            {{ site.description | markdownify }}
+          </div>
+          <div class="social">
+            <ul>
+              {% for social in site.social %}
+              <li><a class="external-link is-light" href="{{ social.url }}">
+                <i class="{{ social.icon }} fa-2x"></i>
+              </a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- News. -->
+  <div class="hr">
+    <div>
+      <p>_____</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container is-max-desktop">
+
+      <!--<h2 class="title is-3">News</h2>
+      <div class="content">
+        <ul>
+          {% for news in site.data.news %}
+          <li>
+            <b>{{ news.date }}</b>: {{ news.description | markdownify | remove: '<p>' | remove: '</p>' }}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>-->
+
+      <h2 class="title is-3">Research</h2>
+
+      {% for publication in site.data.publications %}
+      <div class="publication-block columns">
+        {% if publication.is_featured %}
+          <div class="column is-2">
+            <div class="publication-image {% if publication.image_mouseover %}publication-mousecell{% endif %}">
+              {% if publication.image_mouseover contains "mp4" %}
+              <video autoplay preload playsinline class="" height="100%" loop muted width="100%">
+                <source src="./images/{{ publication.image_mouseover }}" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+              {% endif %}
+              <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" />
+            </div>
+          </div>
+
+          <div class="column">
+            <div class="content">
+              <h3 class="publication-title">{{ publication.title }}</h3>
+              <div class="publication-authors">
+                {% for author_id in publication.authors %}
+                {% assign author = site.data.authors[author_id] %}
+                <span class="author-block {% if author.is_me %}author-me{% endif %}">
+                  {% if author.is_me %}
+                  {{ author.first_name }} {{author.middle_name}} {{ author.last_name }}{% if forloop.last == false %},{%
+                  endif %}
+                  {% else %}
+                  <a href="{{ author.website }}">{{ author.first_name }} {{ author.middle_name }} {{ author.last_name
+                    }}</a>{% if forloop.last == false %},{% endif %}
+                  {% endif %}
+                </span>
+                {% endfor %}
+              </div>
+              <div class="publication-venue">
+                <span>{{ publication.venue }}</span>
+                {% for award in publication.awards %}
+                  <span class="publication-venue-emph">{{ award }}<span>
+                {% endfor %}
+              </div>
+              <p class="publication-description">{{ publication.description }}</p>
+              <!-- Publication Links. -->
+              <div class="publication-links buttons field has-addons">
+                {% if publication.project_page %}
+                  <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
+                    <span class="icon"><i class="fas fa-globe-asia"></i></span>
+                    <span>Project Page</span>
+                  </a>
+                {% endif %}
+                {% if publication.arxiv %}
+                  <a class="external-link button is-small is-ghost" href="https://arxiv.org/pdf/{{ publication.arxiv }}.pdf">
+                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                    <span>PDF</span>
+                  </a>
+                  <a class="external-link button is-small is-ghost" href="https://arxiv.org/abs/{{ publication.arxiv }}">
+                    <span class="icon"><i class="ai ai-arxiv"></i></span>
+                    <span>arXiv</span>
+                  </a>
+                {% endif %}
+                {% if publication.pdf%}
+                  <a class="external-link button is-small is-ghost" href="{{ publication.pdf }}">
+                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                    <span>PDF</span>
+                  </a>
+                {% endif %}
+                {% if publication.video %}
+                  <a class="external-link button is-small is-ghost" href="{{ publication.video }}">
+                    <span class="icon"><i class="fas fa-video"></i></span>
+                    <span>Video</span>
+                  </a>
+                {% endif %}
+                {% if publication.code %}
+                <a class="external-link button is-small is-ghost" href="{{ publication.code }}">
+                  <span class="icon"><i class="fa fab fa-github"></i></span>
+                  <span>Code</span>
+                </a>
+                {% endif %}
+              </div>
+              <!--/ Publication Links. -->
+            </div>
+          </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+      <div class="container">
+        <h2 class="subtitle"><a class="external-link" href="/pages/publications.html">See all publications ...</a></h2>
+      </div>
+    </div>
+</section>

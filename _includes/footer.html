@@ -1,0 +1,20 @@
+<footer class="footer">
+    <div class="container">
+      <div class="content footer-links has-text-centered">
+          {% for social in site.social %}
+          <a class="external-link is-light" href="{{ social.url }}">
+            <i class="{{ social.icon }} fa-1x"></i>
+          </a>
+          {% endfor %}
+      </div>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              Design and theme inspired by <a href="https://github.com/keunhong/keunhong.github.io">Keunhong Park</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+</footer>

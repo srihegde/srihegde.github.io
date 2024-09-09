@@ -16,6 +16,9 @@
   text-rendering: auto;
   line-height: 1; }
 
+.fa-brands {
+  font-weight: 400; }
+
 .fa-lg {
   font-size: 1.33333em;
   line-height: 0.75em;
@@ -4130,6 +4133,9 @@ readers do not read off random characters that represent icons */
 
 .fa-twitter:before {
   content: "\f099"; }
+
+.fa-x-twitter:before {
+  content: "\e61b"; }
 
 .fa-twitter-square:before {
   content: "\f081"; }

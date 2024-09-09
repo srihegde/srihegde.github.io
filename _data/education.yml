@@ -1,11 +1,9 @@
-- name: University of Washington 
+- name: University of Maryland College Park
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    M.S. in Computer Science,
+  dates: 2021 - 2023
 
-- name: University of Illinois at Urbana-Champaign
+- name: Indraprastha Institute of Information Technology Delhi
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    B.Tech. in Computer Science and Engineering,
+  dates: 2013 - 2017

@@ -1,136 +1,139 @@
-- id: illuminerf
-  title: "IllumiNeRF 3D Relighting without Inverse Rendering"
-  venue: arXiv, 2024
-  description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
-  project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
-  image: illuminerf_before.jpg
-  image_mouseover: illuminerf_after.mp4
+- id: narvis
+  title: "NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization"
+  venue: (Under Review)
+  description: "A high-quality neural renderer for visualizing a variety of large scientific point clouds with low motion-to-photon latency."
+  is_featured: true
+  project_page: 
+  arxiv: 2407.19097
+  image: narvis.png
   authors:
-    - xiaomingzhao
-    - pratuls
-    - dorverbin
-    - keunhong
-    - rmbrualla
-    - phenzler
-- id: reconfusion
-  title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
-  venue: CVPR, 2024
-  description: "Using an multi-view image conditioned diffusion model to regularize a NeRF enabled few-view reconstruction."
-  project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
-  image: reconfusion_before.png
-  image_mouseover: reconfusion_after.mp4
-  authors:
-    - rundiwu
-    - bmild
-    - phenzler
-    - keunhong
-    - ruiqigao
-    - danielwatson
-    - pratuls
-    - dorverbin
-    - barron
-    - pooleb
-    - holynski
-- id: hypernerf
-  title: "CamP: Camera Preconditioning for Neural Radiance Fields"
-  venue: SIGGRAPH Asia, 2023
-  description: "Preconditioning camera optimization during NeRF training significantly improves their ability to jointly recover the scene and camera parameters."
-  project_page: "https://camp-nerf.github.io"
-  github: jonbarron/camp_zipnerf
-  arxiv: 2308.10902
-  image: camp_before.jpg
-  image_mouseover: camp_after.mp4
-  authors:
-    - keunhong
-    - phenzler
-    - bmild
-    - barron
-    - rmbrualla
-  awards:
-    - "Journal Paper"
+    - srihegde
+    - kkullman
+    - tgrubb
+    - llait
+    - sguimond
+    - mzwicker
 
-- id: hypernerf
-  title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
-  venue: SIGGRAPH Asia, 2021
-  description: "By applying ideas from level set methods, we can represent topologically changing scenes with NeRFs."
-  project_page: "https://hypernerf.github.io"
-  github: google/hypernerf
-  arxiv: 2106.13228
-  image: hypernerf_before.jpg
-  image_mouseover: hypernerf_after.mp4
+- id: raceface
+  title: "Rethinking Common Assumptions to Mitigate Racial Bias in Face Recognition Datasets"
+  venue: Human-centric Trustworthy Computer Vision From Research to Applications, ICCV, 2021
+  description: "Exploring the role of data in mitigating racial bias in face recognition systems and also present the flaws in assuming the race-balanced dataset towards fairness."
+  is_featured: false
+  project_page:
+  code: https://github.com/j-alex-hanson/rethinking-race-face-datasets
+  arxiv: 2109.03229
+  # image: race_bias_teaser.png
+  image: raceface.png
   authors:
-    - keunhong
-    - utsinh
-    - hedman
-    - barron
-    - sofien
-    - dgo
-    - rmbrualla
-    - smseitz
+    - mgwilliam
+    - srihegde
+    - ltinubu
+    - ahanson
 
-- id: fignerf
-  title: "FiG-NeRF: Figure Ground Neural Radiance Fields for 3D Object Category Modelling "
-  venue: 3DV, 2021
-  description: "Given a lot of images of an object category, you can train a NeRF to render them from novel views and interpolate between different instances."
-  project_page: "https://fig-nerf.github.io"
-  arxiv: 2104.08418
-  image: fignerf_before.jpg
-  image_mouseover: fignerf_after.mp4
+- id: xdomainmultitask
+  title: "Cross-Domain Multi-task Learning for Object Detection and Saliency Estimation"
+  venue: Workshop on Continual Learning in Computer Vision, CVPR, 2021
+  description: "A novel multi-task learning framework in the absence of common annotated dataset for object detection and saliency estimation in natural images."
+  is_featured: false
+  project_page:
+  arxiv:
+  pdf: https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Khattar_Cross-Domain_Multi-Task_Learning_for_Object_Detection_and_Saliency_Estimation_CVPRW_2021_paper.pdf
+  image: xdomain.png
   authors:
-    - chrisxie
-    - keunhong
-    - rmbrualla
-    - mtbr
+    - akhattar
+    - srihegde
+    - rhebbalaguppe
 
-- id: nerfies
-  title: "Nerfies: Deformable Neural Radiance Fields"
-  venue: ICCV, 2021
-  description: "Learning deformation fields with a NeRF let's you reconstruct non-rigid scenes with high fidelity."
-  project_page: "https://nerfies.github.io"
-  github: google/nerfies
-  arxiv: 2011.12948
-  image: nerfies_before.jpg
-  image_mouseover: nerfies_after.mp4
+- id: iterativekd
+  title: "An Empirical Study of Iterative Knowledge Distillation for Neural Network Compression"
+  venue: ESANN, 2020
+  description: "Exploration into minimizing the NN model parameters by successive application of knowledge distillation through ancestral- and parental-training."
+  is_featured: false
+  project_page:
+  arxiv:
+  pdf: https://www.esann.org/sites/default/files/proceedings/2020/ES2020-205.pdf
+  image: iterativekd.png
   authors:
-    - keunhong
-    - utsinh
-    - barron
-    - sofien
-    - dgo
-    - smseitz
-    - rmbrualla
-  awards:
-    - "Oral Presentation"
+    - syalburgi
+    - tdash
+    - rhebbalaguppe
+    - srihegde
+    - asrinivasan
 
-- id: latentfusion
-  title: "LatentFusion: End-to-End Differentiable Reconstruction and Rendering for Unseen Object Pose Estimation "
-  venue: CVPR, 2020
-  description: "By learning to predict geometry from images, you can do zero-shot pose estimation with a single network."
-  project_page: "https://latentfusion.github.io"
-  github: NVlabs/latentfusion
-  arxiv: 1912.00416
-  image: latentfusion_before.jpg
-  image_mouseover: latentfusion_after.mp4
+- id: kdvi
+  title: "Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework"
+  venue: ICASSP, 2020
+  description: "Augmenting the knowledge distillation framework with sparsity inducing ability of variational inference to learn compact and sparser networks."
+  is_featured: false
+  project_page:
+  arxiv: 1910.12061
+  image: kdvi.png
   authors:
-    - keunhong
-    - amousavian
-    - yux
-    - fox
+    - srihegde
+    - rprasad
+    - rhebbalaguppe
+    - vkumar
 
-- id: photoshape
-  title: "PhotoShape: Photorealistic Materials for Large-Scale Shape Collections"
-  venue: SIGGRAPH Asia, 2018
-  description: "By pairing large collections of images, 3D models, and materials, you can create thousands of photorealistic 3D models fully automatically."
-  project_page: "https://photoshape.github.io"
-  github: keunhong/photoshape
-  arxiv: 1809.09761
-  image: photoshape.jpg
+- id: smartoverlays
+  title: "SmartOverlays: A Visual Saliency Driven Label Placement for Intelligent Human-Computer Interfaces"
+  venue: WACV, 2020
+  description: "A situated visualization method for overlay placement in AR and video applications respecting proximity to the object of interest, non-occlusion, and aesthetics."
+  is_featured: true
+  project_page: https://ilab-ar.github.io/SmartOverlays/
+  arxiv:
+  pdf: https://openaccess.thecvf.com/content_WACV_2020/papers/Hegde_SmartOverlays_A_Visual_Saliency_Driven_Label_Placement_for_Intelligent_Human-Computer_WACV_2020_paper.pdf
+  image: smartoverlays.png
+  video: https://drive.google.com/open?id=15fEfWE97W-JjtShyMiWapXIdtYFv59Sr
   authors:
-    - keunhong
-    - krematas
-    - ali
-    - smseitz
-  awards:
-    - "Journal Cover"
+    - srihegde
+    - jmaurya
+    - akalkar
+    - rhebbalaguppe
+
+- id: where2place
+  title: "Where To Place: A Real-Time Visual Saliency Based Label Placement for Augmented Reality Applications"
+  venue: ICIP, 2018
+  description: "A simple ad-hoc algorithm in the image space for visual saliency-aware label placement in AR applications."
+  is_featured: true
+  project_page: https://srihegde.github.io/Where2place/
+  arxiv:
+  pdf: https://ieeexplore.ieee.org/abstract/document/8451052
+  image: where2place.png
+  video: https://youtu.be/ab0nm4pL3b8
+  authors:
+    - nrakholia
+    - srihegde
+    - rhebbalaguppe
+
+- id: drawinair
+  title: "DrawInAir: A Lightweight Gestural Interface Based on Fingertip Regression"
+  venue: Observing and Understanding Hands in Action, ECCV, 2018
+  description: "Ego-centric gestural interface for AR applications using fingertip regression."
+  is_featured: true
+  project_page:
+  arxiv:
+  image: drawinair2.png
+  video: https://drive.google.com/open?id=1AE8eM6QV6OZYpNF61BftCRY-jQJ5aIh-
+  authors:
+    - ggarg
+    - srihegde
+    - rperla
+    - vjain
+    - lvig
+    - rhebbalaguppe
+
+- id: gestar
+  title: "GestAR: Real Time Gesture Interaction for AR with Egocentric View"
+  venue: ISMAR, 2016
+  description: "Proposes a method for real-time gesture interaction for AR with egocentric view."
+  is_featured: true
+  project_page:
+  arxiv:
+  pdf: https://ieeexplore.ieee.org/abstract/document/7836511
+  image: gestar.png
+  video: https://drive.google.com/open?id=0BwUulWppPtqvcUo4ZWU2dkRlQlk
+  authors:
+    - srihegde
+    - rperla
+    - rhebbalaguppe
+    - ehassan

@@ -18,22 +18,53 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+title: Srinidhi Hegde
+name: Srinidhi Hegde
+position: Graduate Researcher 
+organization: "University of Maryland College Park"
+email: srihegde@umd.edu
 description: >-
-  I am a researcher in 3D computer vision, generative models, and computer graphics. I was previously a research scientist at [Google](https://ai.google/research/).
+  <!-- **Welcome to my academic homepage!** -->
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  <!-- I am a graduate researcher at the University of Maryland, College Park.  -->
+  <br>
+  My research interests lie in the intersection of 3D Vision, Computer Graphics and Deep Learning with an application domain of scientific visualization and mixed reality (AR/VR/XR). I have been primarily working with [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/) on real-time neural point cloud rendering for scientific visualization and [Prof. Jia-bin Huang](https://jbhuang0604.github.io/) on photo-geometric factors in 2D generative models.
+  <br>
+  <br>
+
+  Previously, I was a researcher at Innovation Labs, Tata Consultancy Services collaborating with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://in.linkedin.com/in/ramya-hebbalaguppe-620b272). I completed my undergrad in Computer Science and Engineering at Indraprastha Institute of Information Technology Delhi (IIITD). At IIITD, I was fortunate to work with [Prof. Saket Anand](http://faculty.iiitd.ac.in/~anands/) and [Prof. Ojaswa Sharma](http://faculty.iiitd.ac.in/~ojaswa/) on interesting problems of scene reconstruction and procedural modelling.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://srihegde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: 
+
+# Navbar items
+navbar_items:
+  - name: Home
+    url: /
+  - name: Projects
+    url: /projects/
+  - name: CV
+    url: /cv/
+  - name: Misc
+    url: /misc/
+
+# Social media links
+social:
+  - title: "Github"
+    url: "https://github.com/srihegde"
+    icon: "fab fa-github"
+  - title: "Linkedin"
+    url: "https://www.linkedin.com/in/srihegde/"
+    icon: "fab fa-linkedin"
+  - title: "Twitter"
+    url: "https://x.com/_srihegde_"
+    icon: "fa-brands fa-x-twitter"
+  - title: "Google Scholar"
+    url: "https://scholar.google.co.in/citations?user=yRIA06YAAAAJ&hl=en"
+    icon: "ai ai-google-scholar"
+  - title: "Email"
+    url: "mailto:srihegde@umd.edu"
+    icon: "fa fa-envelope"
 
 # Build settings
 theme: minima
