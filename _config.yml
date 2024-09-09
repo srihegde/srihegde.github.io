@@ -47,7 +47,7 @@ navbar_items:
   - name: Home
     url: /
   - name: Projects
-    url: /projects/
+    url: /pages/projects.html
   - name: Misc
     url: /misc/
 
