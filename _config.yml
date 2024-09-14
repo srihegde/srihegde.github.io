@@ -24,19 +24,11 @@ position: Graduate Researcher
 organization: "University of Maryland College Park"
 email: srihegde@umd.edu
 description: >-
-  <!-- **Welcome to my academic homepage!** -->
-
-  <!-- I am a graduate researcher at the University of Maryland, College Park.  -->
-  <br>
-  My research interests lie in the intersection of 3D Vision, Computer Graphics and Deep Learning with an application domain of scientific visualization and mixed reality (AR/VR/XR). I have been primarily working with [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/) on real-time neural point cloud rendering for scientific visualization and [Prof. Jia-bin Huang](https://jbhuang0604.github.io/) on photo-geometric factors in 2D generative models.
+  I am a research assistant at [UMIACS](https://www.umiacs.umd.edu/) working with [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/) on efficient neural rendering solutions for point cloud visualization. My broader research interests lie at the intersection of 3D Vision and Computer Graphics with applications to mixed reality (AR/VR/XR) and scientific visualization. I previously worked at [TCS Research](https://www.tcs.com/what-we-do/research) with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://rhebbalaguppe.github.io) on designing deep learning solutions for AR. I completed my undergraduate study in Computer Science and Engineering at [IIITD](https://iiitd.ac.in/) where I collaborated with [Prof. Saket Anand](http://faculty.iiitd.ac.in/~anands/) and [Prof. Ojaswa Sharma](http://faculty.iiitd.ac.in/~ojaswa/) on scene reconstruction and procedural modeling.
   <br>
   <br>
 
-  Previously, I was a researcher at Innovation Labs, Tata Consultancy Services collaborating with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://in.linkedin.com/in/ramya-hebbalaguppe-620b272). I completed my undergrad in Computer Science and Engineering at Indraprastha Institute of Information Technology Delhi (IIITD). At IIITD, I was fortunate to work with [Prof. Saket Anand](http://faculty.iiitd.ac.in/~anands/) and [Prof. Ojaswa Sharma](http://faculty.iiitd.ac.in/~ojaswa/) on interesting problems of scene reconstruction and procedural modelling.
-  <br>
-  <br>
-
-  Here is my [CV](/resources/Srinidhi_Hegde_CV.pdf) (as of Sep-2024).
+  **[CV](/resources/Srinidhi_Hegde_CV.pdf) (as of Sep-2024).**
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srihegde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: 
@@ -96,3 +88,9 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Description drafts
+# <!-- **Welcome to my academic homepage!** -->
+# <!-- I am a graduate researcher at the University of Maryland, College Park.  -->
+# <br>
+# and [Prof. Jia-bin Huang](https://jbhuang0604.github.io/) on photo-geometric factors in 2D generative models
