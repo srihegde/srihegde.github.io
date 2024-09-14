@@ -10,7 +10,7 @@
   title: "L-Systems Vegetation Models"
   description: "Procedural modelling of vegetation using context-free grammar "
   is_featured: true
-  code: https://github.com/srihegde/LSys
+  code: https://github.com/srihegde/L-System-Tree-Modelling
   pdf: lsystems.pdf
   image: lsys.png
 
