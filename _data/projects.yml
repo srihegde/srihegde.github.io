@@ -1,0 +1,31 @@
+- id: sketch23d
+  title: "Sketch23D"
+  description: "A sketching interface using QT+OpenGL for rapid designing of freeform 3D models from 2D sketches"
+  is_featured: true
+  code: https://github.com/srihegde/Sketch23D
+  pdf:
+  image: sketch23d.png
+
+- id: lsys
+  title: "L-Systems Vegetation Models"
+  description: "Procedural modelling of vegetation using context-free grammar "
+  is_featured: true
+  code: https://github.com/srihegde/LSys
+  pdf: lsystems.pdf
+  image: lsys.png
+
+- id: panoreco
+  title: "Panoreco"
+  description: "3D reconstruction from panoramic images"
+  is_featured: false
+  code: https://github.com/srihegde/PanorEco
+  pdf:
+  image: panoreco.png
+
+- id: thunt
+  title: "TreasAR-Hunt"
+  description: "Unity + Vuforia template to create spatially-aware treasure hunt game in AR using image-based markers."
+  is_featured: true
+  code: https://github.com/srihegde/TreasAR-Hunt
+  pdf:
+  image: treasar.png

@@ -66,7 +66,7 @@
   title: "Variational Student: Learning Compact and Sparser Networks in Knowledge Distillation Framework"
   venue: ICASSP, 2020
   description: "Augmenting the knowledge distillation framework with sparsity inducing ability of variational inference to learn compact and sparser networks."
-  is_featured: false
+  is_featured: true
   project_page:
   arxiv: 1910.12061
   image: kdvi.png
@@ -96,7 +96,7 @@
   title: "Where To Place: A Real-Time Visual Saliency Based Label Placement for Augmented Reality Applications"
   venue: ICIP, 2018
   description: "A simple ad-hoc algorithm in the image space for visual saliency-aware label placement in AR applications."
-  is_featured: true
+  is_featured: false
   project_page: https://srihegde.github.io/Where2place/
   arxiv:
   pdf: https://ieeexplore.ieee.org/abstract/document/8451052
@@ -111,9 +111,10 @@
   title: "DrawInAir: A Lightweight Gestural Interface Based on Fingertip Regression"
   venue: Observing and Understanding Hands in Action, ECCV, 2018
   description: "Ego-centric gestural interface for AR applications using fingertip regression."
-  is_featured: true
+  is_featured: false
   project_page:
   arxiv:
+  pdf: https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Garg_DrawInAir_A_Lightweight_Gestural_Interface_Based_on_Fingertip_Regression_ECCVW_2018_paper.pdf
   image: drawinair2.png
   video: https://drive.google.com/open?id=1AE8eM6QV6OZYpNF61BftCRY-jQJ5aIh-
   authors:

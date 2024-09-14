@@ -7,15 +7,69 @@ layout: null
 
 <body>
 
-  {% assign is_banner = true %}
-  {%- include navbar.html banner=is_banner -%}
+    {% assign is_banner = true %}
+    {%- include navbar.html banner=is_banner -%}
 
-  <br></br>
-  <div class="container is-max-desktop">
-    <h2 class="title is-3">Projects</h2>
-  </div>
+    <br></br>
+    <div class="container is-max-desktop">
+        <h2 class="title is-3">Projects</h2>
+    </div>
 
-  {%- include footer.html -%}
+  <!-- Template from https://responsive-bulma-cards.netlify.app/ Example #10 -->
+    <div class="container grid">
+        <div class="columns">
+            {% for project in site.data.projects %}
+                {% if project.is_featured %}
+                    <div class="column">
+                        {% assign imgurl = "../images/" | append: project.image %}
+                        <div class="card has-no-rounded is-bg-zoom is-bg-cover is-cursor-pointer transform is-duration-300 hover-translate-y" style="background-image: url({{ imgurl }})">
+                            <div class="card-content has-no-rounded is-duration-300 pb-5 pt-24">
+                                <div class="content">
+                                    <div class="title-transform-y is-duration-300 mb-5">
+                                        <h3 class="has-text-white-bis"> {{ project.title }} </h3>
+                                        <div class="underline-br"></div>
+                                    </div>
+                                    <div class="text-motion has-text-white-bis transform is-duration-300 hover-translate-y">
+                                        <p class="is-size-6">{{ project.description }}</p>
+                                        <br>
+                                        {% if project.pdf %}
+                                            <a class="button is-primary" href="../resources/{{ project.pdf }}">PDF</a>
+                                        {% endif %}
+                                        {% if project.code %}
+                                            <a class="button is-primary" href="{{ project.code }}">Code</a>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+            <!-- <div class="column">
+                <div class="card has-no-rounded is-bg-zoom is-bg-cover is-cursor-pointer transform is-duration-300 hover-translate-y" style="background-image: url('https://images.pexels.com/photos/3304855/pexels-photo-3304855.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');">
+                    <div class="card-content has-no-rounded is-duration-300 pb-5 pt-24">
+                        <div class="content">
+                            <div class="title-transform-y is-duration-300 mb-5">
+                                <h3 class="has-text-white-bis">Dummy text title</h3>
+                                <div class="underline-br"></div>
+                            </div>
+                            <div class="text-motion has-text-white-bis transform is-duration-300 hover-translate-y">
+                                <p class="is-size-6">Lorem ipsum leo risus, porta ac thes consectetur ac,
+                                vestibulum at eros. Donec id elit non miy losre..</p>
+                                <br>
+                                <a class="button is-primary" href="#">PDF</a>
+                                <a class="button is-primary" href="#">Code</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+
+
+    {%- include footer.html -%}
 
 </body>
 

@@ -36,7 +36,7 @@ description: >-
   <br>
   <br>
 
-  Here is my [CV](/resources/Srinidhi_Hegde_CV.pdf) (as of 10-Sep-2024).
+  Here is my [CV](/resources/Srinidhi_Hegde_CV.pdf) (as of Sep-2024).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srihegde.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: 
@@ -48,8 +48,8 @@ navbar_items:
     url: /
   - name: Projects
     url: /pages/projects.html
-  - name: Misc
-    url: /misc/
+  # - name: Misc
+  #   url: /misc/
 
 # Social media links
 social:
