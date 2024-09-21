@@ -12,6 +12,7 @@
 .portrait {
     border-radius: 5%;
     overflow: hidden;
+    margin: 0.25em;
 
     img { transform: scale(1.05); }
 }
@@ -195,12 +196,12 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
         display:flex;
         justify-content: space-around;
         flex-wrap: wrap;
-        width: 50%;
+        width: 250px;
         padding: 0;
 
         li {
             display: inline-block;
-            padding: 0.5em;
+            padding: 0em;
 
             a {
                 white-space: nowrap;
@@ -304,3 +305,7 @@ transform: translateX(0) translateY(0) rotate(0) skewX(0) skewY(0) scaleX(1) sca
 .button.is-primary {
     background-color: #485fc7;
 }
+
+// .container {
+//     margin: 0.5em;
+// }
