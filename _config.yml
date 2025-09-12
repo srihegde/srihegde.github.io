@@ -20,11 +20,11 @@
 
 title: Srinidhi Hegde
 name: Srinidhi Hegde
-position: Graduate Researcher 
-organization: "University of Maryland College Park"
-email: srihegde@umd.edu
+position: PhD Student
+organization: "Purdue University"
+email: hegde51@purdue.edu
 description: >-
-  I am a research assistant at [UMIACS](https://www.umiacs.umd.edu/) working with [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/) on efficient neural rendering solutions for point cloud visualization. My broader research interests lie at the intersection of 3D Vision and Computer Graphics with applications to mixed reality (AR/VR/XR) and scientific visualization. I previously worked at [TCS Research](https://www.tcs.com/what-we-do/research) with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://rhebbalaguppe.github.io) on designing deep learning solutions for AR. I completed my undergraduate study in Computer Science and Engineering at [IIITD](https://iiitd.ac.in/) where I collaborated with [Prof. Saket Anand](http://faculty.iiitd.ac.in/~anands/) and [Prof. Ojaswa Sharma](http://faculty.iiitd.ac.in/~ojaswa/) on scene reconstruction and procedural modeling.
+  I am working with [Prof. Sotirios Nousias](https://sotirisnousias.com/) at the intersection of 3D vision, computational imaging, and computer graphics. Previously, I worked on efficient neural rendering solutions for point cloud visualization with [Prof. Matthias Zwicker](https://www.cs.umd.edu/~zwicker/) at the University of Maryland College Park. I was also a researcher at [TCS Research](https://www.tcs.com/what-we-do/research) where I explored deep learning solutions for AR with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://rhebbalaguppe.github.io).
   <br>
   <br>
 
@@ -88,3 +88,5 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# I previously worked at [TCS Research](https://www.tcs.com/what-we-do/research) with [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) and [Ms. Ramya Hebbalaguppe](https://rhebbalaguppe.github.io) on designing deep learning solutions for AR. I completed my undergraduate study in Computer Science and Engineering at [IIITD](https://iiitd.ac.in/) where I collaborated with [Prof. Saket Anand](http://faculty.iiitd.ac.in/~anands/) and [Prof. Ojaswa Sharma](http://faculty.iiitd.ac.in/~ojaswa/) on scene reconstruction and procedural modeling.
