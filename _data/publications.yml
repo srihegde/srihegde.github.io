@@ -14,6 +14,24 @@
     - sguimond
     - mzwicker
 
+- id: diffbeatsgan
+  title: "Diffusion Models Beat GANs on Image Classification"
+  venue: Preprint, 2023
+  description: "Diffusion models can also be used for classification tasks by extracting and utilizing the discriminative information from their intermediate features, outperforming both generative and discriminative methods."
+  is_featured: false
+  project_page:
+  arxiv: 2307.08702
+  image: diffssl.png
+  authors:
+    - smukhopadhyay
+    - mgwilliam
+    - vagarwal
+    - npadmanabhan
+    - aswaminathan
+    - srihegde
+    - tzhou
+    - ashrivastava
+
 - id: raceface
   title: "Rethinking Common Assumptions to Mitigate Racial Bias in Face Recognition Datasets"
   venue: Human-centric Trustworthy Computer Vision From Research to Applications, ICCV, 2021
