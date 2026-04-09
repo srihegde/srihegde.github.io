@@ -1,11 +1,13 @@
 - id: narvis
   title: "NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization"
-  venue: (Under Review)
+  venue: PacificVis, 2026
   description: "A high-quality neural renderer for visualizing a variety of large scientific point clouds with low motion-to-photon latency."
   is_featured: true
-  project_page: 
+  project_page: https://srihegde.github.io/narvis/
   arxiv: 2407.19097
   image: narvis.png
+  awards:
+    - Oral Presentation
   authors:
     - srihegde
     - kkullman
@@ -114,7 +116,7 @@
   venue: ICIP, 2018
   description: "A simple ad-hoc algorithm in the image space for visual saliency-aware label placement in AR applications."
   is_featured: false
-  project_page: https://srihegde.github.io/Where2place/
+  project_page:
   arxiv:
   pdf: https://ieeexplore.ieee.org/abstract/document/8451052
   image: where2place.png

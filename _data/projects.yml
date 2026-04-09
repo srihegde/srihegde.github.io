@@ -1,3 +1,10 @@
+- id: narvis
+  title: "NARVis"
+  description: "A neural renderer for interactive visualizing large point clouds + Unity plugin + supporting script."
+  is_featured: true
+  code: https://github.com/orgs/VALIXR-Neural-Rendering/repositories
+  image: storms.png
+
 - id: sketch23d
   title: "Sketch23D"
   description: "A sketching interface using QT+OpenGL for rapid designing of freeform 3D models from 2D sketches"
